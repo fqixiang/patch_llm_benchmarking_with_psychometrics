@@ -1,0 +1,788 @@
+\section{M032064}
+1. Type of question: Free text response.
+2. Thought process and reasoning: 
+- I know that Jenny gets $\frac{3}{8}$ of the money, so Ann must get the remaining $\frac{5}{8}$ of the money.
+- To find out how many zeds Ann gets, I need to multiply the total amount of money by $\frac{5}{8}$.
+3. Answer: 
+- $\frac{5}{8} \times 560 = 350$
+- Ann gets 350 zeds.
+-------------------------------------------
+\section{M032094}
+1. Type of question: Multiple choice.
+2. Thought process:
+- Convert the fractions to decimals: $\frac{4}{100}=0.04$ and $\frac{3}{1000}=0.003$.
+- Add the decimals: $0.04+0.003=0.043$.
+3. Answer: [A] 0.043
+-------------------------------------------
+\section{M032166}
+1. Type of question: Multiple choice.
+2. Thought process and reasoning:
+- First, round each number to the nearest whole number: 7.21 rounds to 7, 3.86 rounds to 4, and 10.09 rounds to 10.
+- Then, perform the multiplication and division: $\frac{7 \times 4}{10} = \frac{28}{10} = \frac{14}{5} = 2.8$.
+3. Answer: [B] $\frac{7 \times 4}{10}$.
+-------------------------------------------
+\section{M032595}
+ 1. This is a multiple-choice question.
+2. The pie chart gives the percentage of caps for sale at a sporting goods store. We are asked to find the total number of caps that are either white or green. The percentage of white caps is 30%, and the percentage of green caps is 25%. So, the total percentage of caps that are either white or green is 30% + 25% = 55%. There are 200 caps in total. So, the total number of caps that are either white or green is 55% of 200 = 110.
+3. [C]
+-------------------------------------------
+\section{M032626}
+1. Type of question: Multiple choice.
+2. Thought process:
+- First, find the prime factors of 36.
+- Then, multiply the prime factors together to get 36.
+3. Answer: [D] $2 \times 2 \times 3 \times 3$
+-------------------------------------------
+\section{M032662}
+ 1. This is a multiple-choice question.
+2. First, find the value of $P$ and $Q$. $P$ is located at $\frac{1}{4}$ and $Q$ is located at $\frac{1}{2}$. 
+$P \times Q = \frac{1}{4} \times \frac{1}{2} = \frac{1}{8}$. 
+3. $N$ is located at $\frac{1}{8}$ on the number line. The correct answer is C.
+-------------------------------------------
+\section{M032725}
+1. Type of question: Free text response.
+2. Thought process:
+- Convert the mixed number $3 \frac{5}{6}$ to an improper fraction: $3 \frac{5}{6} = \frac{3 \times 6 + 5}{6} = \frac{23}{6}$.
+- Divide the numerator by the denominator using long division: 
+```
+6 | 23
+   -18
+     50
+   -54
+     4
+```
+- Round the result to 2 decimal places: $3.83$.
+3. Answer: 3.83
+-------------------------------------------
+\section{M042002}
+ 1. Type of question: This is a multiple-choice question.
+2. Thought process: The greatest result will be achieved by placing the largest digits in the top row and the smallest digits in the bottom row. This is because multiplication is a commutative operation, so the order of the factors does not matter. Therefore, we can place the largest digit, 9, in the top left box, the second largest digit, 7, in the top right box, the third largest digit, 5, in the bottom left box, and the smallest digit, 3, in the bottom right box.
+3. Answer: [A]
+-------------------------------------------
+\section{M042016}
+1. Type of question: Multiple choice.
+2. Thought process: 
+- To express the value of $256 \times 4,096$ as a power of 4, we need to find the exponent to which 4 must be raised to get the product.
+- From the table, we can see that $256 = 4^4$ and $4,096 = 4^6$.
+- Therefore, $256 \times 4,096 = 4^4 \times 4^6 = 4^{4+6} = 4^{10}$.
+3. Answer: [A] $4^{10}$.
+-------------------------------------------
+\section{M042024}
+ 1. The question is a multiple-choice question.
+2. First, locate 27 on the number line. Then, notice that the distance between 27 and K is less than 0.1. Since 27.9 is 0.1 away from 27, and 27.8 is 0.02 away from 27, K must be 27.8.
+3. [B]
+-------------------------------------------
+\section{M042031}
+1. Type of question: Multiple choice.
+2. Thought process:
+- The two fractions are equivalent, so they have the same value.
+- To find the value of $\square$, we need to find a number that makes the fraction $\frac{\square}{21}$ equal to $\frac{4}{14}$.
+- We can cross-multiply to solve for $\square$:
+$$\frac{4}{14} = \frac{\square}{21}$$
+$$4 \times 21 = 14 \times \square$$
+$$84 = 14 \times \square$$
+$$\square = \frac{84}{14}$$
+$$\square = 6$$
+3. Answer: [A] 6
+-------------------------------------------
+\section{M042032}
+1. Type of question: Multiple choice.
+2. Thought process: 
+- Convert 0.125 to a fraction.
+- 0.125 = 125/1000.
+- Simplify the fraction by dividing both numerator and denominator by 125.
+- 125/1000 = 1/8.
+3. Answer: [B]
+-------------------------------------------
+\section{M042041}
+1. Type of question: Multiple choice.
+2. Thought process and reasoning:
+- Let the length of the original pipe be x meters.
+- The workman cut off $\frac{1}{5}$ of the pipe, which is $\frac{1}{5}x$ meters.
+- The piece he cut off was 3 meters long, so $\frac{1}{5}x = 3$.
+- Solving for x, we get $x = 3 \times 5 = 15$.
+3. Answer: [C] $15 \mathrm{~m}$
+-------------------------------------------
+\section{M042059}
+1. Type of question: Free text response.
+2. Thought process and reasoning: 
+- First, calculate the percentage of successful shots for James.
+- Then, calculate the number of successful shots for Andrew.
+3. Answer: 
+- James: 75%
+- Andrew: 16 out of 20
+-------------------------------------------
+\section{M042186}
+1. Type of question: Free text response.
+2. Thought process: The pattern appears to be subtracting a number from 3 and getting the result. The numbers being subtracted are decreasing by 1 each time. So, the next number to be subtracted would be -1.
+3. Answer: $3-(-1)=4$
+-------------------------------------------
+\section{M052061}
+1. Type of question: Free text response.
+2. Thought process and reasoning:
+- I know that each box holds 6 eggs.
+- I have 94 eggs.
+- I need to find the smallest number of boxes I need to pack all the eggs.
+- I can divide the number of eggs by the number of eggs in each box to find the number of boxes I need.
+3. Answer: 16
+-------------------------------------------
+\section{M052214}
+1. Type of question: Multiple choice.
+2. Thought process and reasoning:
+- Option A: $\frac{3}{10}$ of $50=15$ and $50 \%$ of $3=1.5$, so this option is not true.
+- Option B: $3 \%$ of $50=1.5$ and $6 \%$ of $100=6$, so this option is true.
+- Option C: $50 \div 30=\frac{5}{3}$ and $30 \div 50=\frac{3}{5}$, so this option is not true.
+- Option D: $\frac{3}{10} \times 50=15$ and $\frac{5}{10} \times 30=15$, so this option is true.
+3. Answer: [B].
+-------------------------------------------
+\section{M052216}
+1. Type of question: Multiple choice.
+2. Thought process: 
+- To convert a fraction to a decimal, divide the numerator by the denominator.
+- $\frac{3}{5} = 3 \div 5 = 0.6$
+3. Answer: [B] 0.6
+-------------------------------------------
+\section{M052228}
+1. Type of question: Multiple choice.
+2. Thought process:
+- To subtract fractions with different denominators, we need to find a common denominator.
+- The least common multiple of 3 and 4 is 12.
+- So, we can rewrite the expression as $\frac{1}{3}-\frac{1}{4} = \frac{4}{12}-\frac{3}{12}$.
+- Now we can subtract the numerators and keep the denominator: $\frac{4}{12}-\frac{3}{12} = \frac{1}{12}$.
+3. Answer: [A] $\frac{1-1}{4-3}$
+-------------------------------------------
+\section{M052231}
+1. Type of question: Free text response
+2. Thought process:
+- Identify the decimal points of both numbers.
+- Line up the decimal points and add the digits vertically, starting from the rightmost column.
+- Add any carry-over digits to the next column.
+3. Answer: 48.398
+-------------------------------------------
+\section{M032047}
+1. Type of question: Multiple choice.
+2. Thought process:
+- Let the three consecutive whole numbers be $2n-1$, $2n$, and $2n+1$.
+- The sum of the three numbers is $(2n-1) + 2n + (2n+1) = 6n$.
+3. Answer: [B] $6 n$
+-------------------------------------------
+\section{M032295}
+1. Type of question: Multiple choice.
+2. Thought process:
+- The total number of balloons is the sum of the number of balloons carried by the boys and the number of balloons carried by the girls.
+- Each person carried 2 balloons, so the number of balloons carried by the boys is $2m$ and the number of balloons carried by the girls is $2n$.
+- Therefore, the total number of balloons is $2m+2n$.
+3. Answer: [A] $2(m+n)$
+-------------------------------------------
+\section{M032352}
+1. Type of question: Multiple choice.
+2. Thought process and reasoning:
+- The table shows a linear relationship between the bush height and the shadow length.
+- For every 20 cm increase in bush height, the shadow length increases by 16 cm.
+- To find the shadow length of a bush that is 50 cm tall, we can use the following proportion:
+```
+20 cm / 16 cm = 50 cm / x cm
+```
+- Solving for x, we get:
+```
+x = 50 cm * 16 cm / 20 cm = 40 cm
+```
+3. Answer: [C] 40 cm
+-------------------------------------------
+\section{M032419}
+ 1. This is a multiple-choice question.
+2. Let's think step-by-step. The expression $2x + 3x$ represents the sum of two terms, where one term is twice the value of the other. Looking at the options, we can see that option A represents a segment with a length of 5x, which does not match the expression. Option B represents a segment with a length of 2x + 3x, which matches the expression. Option C represents a rectangle with an area of 2x * 3, which does not match the expression. Option D represents a rectangle with an area of x * (2 + 3), which does not match the expression.
+3. Answer: B.
+-------------------------------------------
+\section{M032424}
+ 1. This is a multiple-choice question.
+2. Let's think step by step. We know that the weight of one metal block is the same. When she weighed one block against 8 grams, the scale was balanced. So the weight of one metal block is 8 grams. When she weighed all three blocks against 20 grams, the scale was also balanced. So the total weight of three metal blocks is 20 grams. Therefore, the weight of one metal block is 20 grams divided by 3, which is 6.67 grams. The closest answer is [B] 6 grams.
+3. The answer is [B] 6 grams.
+-------------------------------------------
+\section{M032477}
+1. Type of question: Multiple choice.
+2. Thought process and reasoning: The cost of hiring a taxi consists of two parts: a basic charge of 25 zeds and a charge of 0.2 zeds for each kilometer the taxi is driven. For a trip of $n$ kilometers, the total cost would be the basic charge plus the charge for the distance traveled. The expression that represents this cost is $25+0.2 n$.
+3. Answer: [A] $25+0.2 n$.
+-------------------------------------------
+\section{M032538}
+1. Type of question: Free text response
+2. Thought process:
+- Substitute $t=9$ into the equation.
+- Simplify the expression.
+- Calculate the value of $y$.
+3. Answer: $y=91$
+-------------------------------------------
+\section{M032673}
+1. Type of question: Multiple choice.
+2. Thought process:
+- $t$ is between 6 and 9, so $t+5$ is between $6+5=11$ and $9+5=14$.
+- The answer should be between 11 and 14.
+3. Answer: [C] 11 and 14
+-------------------------------------------
+\section{M032683}
+1. Type of question: Free text response.
+2. Thought process and reasoning:
+- First, find a common denominator for the three fractions. The least common multiple of 8, 4, and 2 is 8.
+- Rewrite each fraction with the common denominator of 8:
+$\frac{3 x}{8}+\frac{x}{4}+\frac{x}{2}=\frac{3 x}{8}+\frac{2x}{8}+\frac{4x}{8}$
+- Add the numerators of the fractions:
+$\frac{3 x}{8}+\frac{2x}{8}+\frac{4x}{8}=\frac{9 x}{8}$
+3. Answer: 
+$\frac{9 x}{8}$
+-------------------------------------------
+\section{M032738}
+1. Type of question: Multiple choice.
+2. Thought process and reasoning: 
+- The question asks for the meaning of $x y+1$.
+- The expression $x y+1$ is a sum of two terms, $x y$ and 1.
+- The term $x y$ is a product of two variables, $x$ and $y$.
+- The term 1 is a constant.
+- The operation "+" is addition.
+- Therefore, the expression $x y+1$ means to add the product of $x$ and $y$ to 1.
+3. Answer: [D] Multiply $x$ by $y$, then add 1.
+-------------------------------------------
+\section{M032757}
+ 1. The question is a free-text response question.
+2. The table shows the number of tiles for the first three shapes Pat made. We can see that the number of black tiles increases by 3 for each shape, and the number of red tiles increases by 4 for each shape. So, for the $6 \times 6$ shape, the number of black tiles will be 16 + 3 = 19, and the number of red tiles will be 16 + 4 = 20. So, the total number of tiles will be 19 + 20 = 39. For the $7 \times 7$ shape, the number of black tiles will be 19 + 3 = 22, and the number of red tiles will be 20 + 4 = 24. So, the total number of tiles will be 22 + 24 = 46.
+3. The answer is:
+$6 \times 6$: 19 black tiles, 20 red tiles, 39 total tiles
+$7 \times 7$: 22 black tiles, 24 red tiles, 46 total tiles
+-------------------------------------------
+\section{M032760A}
+ 1. The question is a free-text response question.
+
+2. We can see that the number of black tiles is increasing by 2 for each shape, and the number of red tiles is increasing by 4 for each shape. So, for the shape with a total of 64 tiles, the number of black tiles will be 9 and the number of red tiles will be 55.
+
+3. Answer: 9 black tiles and 55 red tiles.
+-------------------------------------------
+\section{M032760B}
+ 1. The question is a free-text response question.
+2. We can see that the number of black tiles is 1, 4, 9, 16, 25, 36, 49. The number of black tiles is the square of the side length.
+
+The number of red tiles is 8, 12, 16, 20, 24, 28, 32. The number of red tiles is 4 times the side length.
+
+For a shape that used 49 black tiles, the side length is 7. The number of red tiles is 4 times the side length, so the number of red tiles is 4 * 7 = 28.
+
+3. The answer is 28.
+-------------------------------------------
+\section{M032760C}
+ 1. The question is a multiple-choice question.
+2. First, let's find out the pattern of the number of black tiles. 
+The number of black tiles in the $3 \times 3$ shape is 1. 
+The number of black tiles in the $4 \times 4$ shape is 4, which is 1 more than the number of black tiles in the $3 \times 3$ shape. 
+The number of black tiles in the $5 \times 5$ shape is 9, which is 5 more than the number of black tiles in the $4 \times 4$ shape. 
+So the number of black tiles in the $n \times n$ shape is $n^2 - (n - 1)^2 = n^2 - (n^2 - 2n + 1) = 2n - 1$.
+Next, let's find out the pattern of the number of red tiles. 
+The number of red tiles in the $3 \times 3$ shape is 8. 
+The number of red tiles in the $4 \times 4$ shape is 12, which is 4 more than the number of red tiles in the $3 \times 3$ shape. 
+The number of red tiles in the $5 \times 5$ shape is 16, which is 8 more than the number of red tiles in the $4 \times 4$ shape. 
+So the number of red tiles in the $n \times n$ shape is $n^2$.
+Now let's find out the number of black tiles Pat needs to complete the black part of the shape. 
+Since there are 44 red tiles, the shape is a $7 \times 7$ shape. 
+The number of black tiles in the $7 \times 7$ shape is $2 \times 7 - 1 = 13$.
+3. The answer is [D].
+-------------------------------------------
+\section{M032761}
+ 1. The question type is free text response.
+
+2. Let's think step by step. For the $n \times n$ shape, the number of black tiles is $(n-2)^2$. This is because there are $(n-2)$ black tiles on each side of the square, and there are four sides. The number of red tiles is $n^2 - (n-2)^2 = 4n - 4$. This is because there are $n^2$ tiles in total, and $(n-2)^2$ of them are black tiles. The total number of tiles is $n^2$.
+
+3. The answer is $4n-4$.
+-------------------------------------------
+\section{M042067}
+ 1. The question is a multiple-choice question.
+2. The area of a rectangle is equal to its length multiplied by its width. The length of the rectangle is x+2 and the width is x. So the area of the rectangle is (x+2) * x = x^2 + 2x.
+3. [B]
+-------------------------------------------
+\section{M042077}
+1. Type of question: Multiple choice.
+2. Thought process and reasoning:
+- Distribute the 4 to the terms inside the parentheses: $4(3+x) = 4 \cdot 3 + 4 \cdot x$.
+- Simplify the multiplication: $4 \cdot 3 = 12$ and $4 \cdot x = 4x$.
+- Combine like terms: $12 + 4x$.
+3. Answer: [C] $12+4 x$
+-------------------------------------------
+\section{M042086}
+1. Type of question: Free text response.
+2. Thought process: 
+- First, substitute the given value of $a+b=25$ into the expression $2a+2b+4$.
+- Then, simplify the expression by combining like terms.
+3. Answer: $2a+2b+4 = 2(a+b)+4 = 2(25)+4 = 54$
+-------------------------------------------
+\section{M042103}
+1. Type of question: Free text response.
+2. Thought process and reasoning: 
+- Subtract 4x from both sides of the inequality.
+- Simplify both sides.
+- Divide both sides by 5.
+3. Answer: [5/2]
+-------------------------------------------
+\section{M042198A}
+1. Type of question: Free text response.
+2. Thought process: The pattern is a sequence of fractions where the numerator is increased by 1 and the denominator is increased by 1 in each fraction.
+3. Answer: $\frac{6}{7}$
+-------------------------------------------
+\section{M042198B}
+1. Type of question: Free text response.
+2. Thought process: The pattern is that each term is a fraction where the numerator is 1 greater than the denominator. So, the next term would be 6/7. The 100th term would be 100/101.
+3. Answer: 100/101.
+-------------------------------------------
+\section{M042198C}
+1. Type of question: Free text response.
+2. Thought process and reasoning:
+- The given sequence is a series of fractions where the numerator and denominator are consecutive integers.
+- The numerator increases by 1, and the denominator increases by 1 for each term.
+- To find the nth term, we can use the formula: nth term = n/(n+1).
+3. Answer: n/(n+1)
+-------------------------------------------
+\section{M042226}
+1. Type of question: Free text response.
+2. Thought process and reasoning: 
+- First, we need to substitute the given values of $k$ and $l$ into the expression for $P$.
+- Then, we can simplify the expression to find the value of $P$.
+3. Answer: 
+- $P=\frac{3 k l}{5}=\frac{3 \cdot 7 \cdot 10}{5}=\frac{210}{5}=42$
+-------------------------------------------
+\section{M042228}
+ 1. Type of question: This is a free-text response question.
+
+2. Thought process and reasoning: 
+- The numbers in the top row are the numbers from 2 to 8 in increments of 2.
+- The numbers in the second row are the numbers from 6 to 14 in increments of 4.
+- The numbers in the third row are the numbers from 16 to 40 in increments of 8.
+- The numbers in the fourth row are the numbers from 40 to 160 in increments of 20.
+- The numbers in the fifth row are the numbers from 160 to 640 in increments of 80.
+- Based on this pattern, the value of x in the sixth row should be 640 + 160 = 800.
+
+3. Answer: 800
+-------------------------------------------
+\section{M042235}
+1. Type of question: Multiple choice.
+2. Thought process and reasoning:
+- We can solve this system of equations using substitution or elimination.
+- Let's use substitution.
+- Solve the first equation for $x$: $x=12-y$.
+- Substitute this expression for $x$ into the second equation: $2(12-y)+5y=36$.
+- Simplify and solve for $y$: $24-2y+5y=36$, $3y=12$, $y=4$.
+- Substitute this value for $y$ back into the first equation: $x+4=12$, $x=8$.
+3. Answer: [D] $x=8, y=4$.
+-------------------------------------------
+\section{M042236}
+1. Type of question: Multiple choice.
+2. Thought process: 
+- Combine like terms: $3 p^{2}+2 p+2 p^{2}+p = (3 p^{2}+2 p^{2})+(2 p+p) = 5 p^{2}+3 p$.
+3. Answer: [C]
+-------------------------------------------
+\section{M042245}
+1. Type of question: Multiple choice.
+2. Thought process and reasoning:
+- For option A, $x+y=-1$, $(0,-1)$ satisfies the equation, but $(1,3)$ does not.
+- For option B, $2 x+y=5$, $(0,-1)$ does not satisfy the equation, but $(1,3)$ does.
+- For option C, $3 x-y=0$, both $(0,-1)$ and $(1,3)$ satisfy the equation.
+- For option D, $4 x-y=1$, $(0,-1)$ does not satisfy the equation, but $(1,3)$ does.
+3. Answer: [C].
+-------------------------------------------
+\section{M052002}
+1. Type of question: Free text response.
+2. Thought process: 
+- Let's add up the lengths of the three pieces: $2x-5 + x+7 + x+6 = 4x+8$.
+- We know that the total length of the wood was 40cm, so $4x+8 = 40$.
+- Solving for x, we get $x = 8$.
+- Now, we can find the length of the longest piece: $x+7 = 8+7 = 15$.
+3. Answer: 15
+-------------------------------------------
+\section{M052173}
+ 1. This is a multiple-choice question.
+2. The area of the shaded portion of the garden is equal to the area of the rectangle with dimensions \(x\) meters by \((x+4)\) meters, minus the area of the rectangle with dimensions \(x-1\) meters by \(1\) meter.
+3. The area of the shaded portion of the garden is:
+$$x(x+4) - (x-1)(1)$$
+$$=x^2 + 4x - x + 1$$
+$$=x^2 + 3x + 1$$
+4. Therefore, the answer is [D].
+-------------------------------------------
+\section{M052302}
+1. Type of question: Multiple choice.
+2. Thought process:
+- Substitute the given values of $a$, $b$, and $c$ into the equation.
+- Simplify the expression to find the value of $y$.
+3. Answer: [C] 11
+-------------------------------------------
+\section{M032100}
+ 1. Type of question: Multiple choice.
+
+2. First, count the number of cubes along the bottom of the hole. There are 5 cubes. Next, count the number of layers of cubes above the bottom of the hole. There are 3 layers. So, the number of cubes needed to fill the hole is 5 * 3 = 15.
+
+3. Answer: [C]
+-------------------------------------------
+\section{M032116}
+1. Type of question: Multiple choice.
+2. Thought process:
+- The area of a square is calculated by $A = s^2$, where $s$ is the length of one side of the square.
+- We are given that the area of the square is $144 \mathrm{~cm}^{2}$, so we can solve for $s$:
+$$144 = s^2$$
+$$s = 12 \mathrm{~cm}$$
+- The perimeter of a square is calculated by $P = 4s$, where $s$ is the length of one side of the square.
+- We have found that $s = 12 \mathrm{~cm}$, so we can calculate the perimeter:
+$$P = 4s = 4(12 \mathrm{~cm}) = 48 \mathrm{~cm}$$
+3. Answer: [B] $48 \mathrm{~cm}$
+-------------------------------------------
+\section{M032324}
+1. Type of question: Multiple choice.
+2. Thought process:
+- Find the midpoint of $AB$: $M_1 = (A+B)/2 = (0+10)/2 = 5$ cm.
+- Find the midpoint of $BC$: $M_2 = (B+C)/2 = (10+5.2)/2 = 7.6$ cm.
+- Calculate the distance between $M_1$ and $M_2$: $M_1M_2 = |M_1 - M_2| = |5 - 7.6| = 2.6$ cm.
+3. Answer: [B] $2.6 \mathrm{~cm}$
+-------------------------------------------
+\section{M032331}
+1. Type of question: Multiple choice.
+2. Thought process:
+- The hour hand moves 360 degrees in 12 hours.
+- So, the hour hand moves 30 degrees in 1 hour.
+- From 6:20 a.m. to 8:00 a.m., there are 1 hour and 40 minutes.
+- The minute hand moves 360 degrees in 60 minutes.
+- So, the minute hand moves 6 degrees in 1 minute.
+- In 40 minutes, the minute hand moves 6 * 40 = 240 degrees.
+- Therefore, the total number of degrees the minute hand turns through is 30 + 240 = 270 degrees.
+3. Answer: [None of the above]
+-------------------------------------------
+\section{M032397}
+ 1. Type of question: Multiple choice.
+
+2. First, let's analyze the changes from Figure 1 to Figure 2. The triangle in Figure 2 is a reflection of the triangle in Figure 1 across the y-axis. Therefore, we can eliminate answer choices [C] and [D] because they do not include a reflection.
+
+Next, let's analyze the changes from Figure 2 to Figure 3. The triangle in Figure 3 is a translation of the triangle in Figure 2 down by 2 units. Therefore, we can eliminate answer choice [B] because it does not include a translation.
+
+3. Answer: [A] reflection and then translation
+-------------------------------------------
+\section{M032398}
+ 1. The question is a multiple-choice question.
+2. We can see that the angle on the left is 45 degrees, and the angle on the right is 30 degrees. The sum of the angles in a triangle is 180 degrees, so we know that the angle at the top must be 180 - 45 - 30 = 105 degrees. The angle bisectors of a triangle divide the angles in half, so we know that the angle bisector of the top angle must be 105 / 2 = 52.5 degrees. Therefore, the value of x is 52.5 degrees.
+3. The answer is [C] 45^{\circ}.
+-------------------------------------------
+\section{M032402}
+Something went wrong.
+-------------------------------------------
+\section{M032623}
+ 1. This is a multiple-choice question.
+2. The area of the shaded region is equal to the area of the large rectangle minus the area of the two triangles. The area of the large rectangle is 16 cm x 6 cm = 96 cm^2. The area of one triangle is 1/2 x 8 cm x 6 cm = 24 cm^2. There are two triangles, so the area of both triangles is 24 cm^2 x 2 = 48 cm^2. The area of the shaded region is 96 cm^2 - 48 cm^2 = 48 cm^2.
+3. [C]
+-------------------------------------------
+\section{M032679}
+ 1. Type of question: Multiple choice
+
+
+2. First, imagine unfolding the paper. The dotted line will become a straight line, and the two triangles will be symmetrical. The two triangles will be the same size and shape, and they will be isosceles triangles.
+
+
+3. Answer: [B]
+-------------------------------------------
+\section{M032692}
+ 1. The question is asking for the sum of the interior angles of a pentagon, which is a multiple-choice question.
+2. The sum of the interior angles of a polygon with n sides is given by the formula (n-2) x 180 degrees. So, for a pentagon (n=5), the sum of the interior angles is (5-2) x 180 = 540 degrees.
+3. The answer is 540 degrees.
+-------------------------------------------
+\section{M032734}
+ 1. Type of question: Drawing.
+
+2. First, imagine folding the left flap up along the dotted line. The left edge of the flap will line up with the left edge of the square. The top vertex of the flap will touch the top vertex of the square.
+
+Next, imagine folding the right flap up along the dotted line. The right edge of the flap will line up with the right edge of the square. The top vertex of the flap will touch the top vertex of the square.
+
+Finally, imagine folding the bottom flap up along the dotted line. The bottom edge of the flap will line up with the bottom edge of the square. The top vertex of the flap will touch the top vertex of the square.
+
+The three flaps will now be touching each other along their top edges. The top view of the shape will be a square.
+
+3. Answer: The top view of the shape will be a square.
+-------------------------------------------
+\section{M042150}
+ 1. This is a multiple-choice question.
+2. A line of symmetry is a line that divides a shape into two mirror images. To determine if a shape has a line of symmetry, you can fold the shape in half and see if the edges match up perfectly. If they do, then the shape has a line of symmetry.
+3. The answer is C. The rectangle has two lines of symmetry.
+-------------------------------------------
+\section{M042152}
+ 1. This is a multiple-choice question.
+2. To perform a half-turn clockwise around point O, we need to rotate the shape 180 degrees in a clockwise direction around point O.
+3. The correct answer is D.
+-------------------------------------------
+\section{M042201}
+ 1. The question is a multiple-choice question.
+2. The volume of a rectangular box is given by the formula: \(V = lwh\), where \(l\) is the length, \(w\) is the width, and \(h\) is the height. In this case, we are given the volume \(V = 200 \mathrm{~cm}^{3}\), the width \(w = 4 \mathrm{~cm}\), and the height \(h = 5 \mathrm{~cm}\). We need to find the length \(l\).
+3. We can rearrange the formula to solve for \(l\): $$l = \frac{V}{wh}$$ Substituting the given values, we get: $$l = \frac{200 \mathrm{~cm}^{3}}{(4 \mathrm{~cm})(5 \mathrm{~cm})} = 10 \mathrm{~cm}$$
+4. Therefore, the value of \(x\) is 10 cm. The answer key is [D].
+-------------------------------------------
+\section{M042270}
+ 1. The question is asking you to draw an isosceles triangle with a base of 4 cm and a height of 5 cm. An isosceles triangle is a triangle with two equal sides, so you will need to draw a triangle with a base of 4 cm and two equal sides of 5 cm.
+
+
+2. To draw the triangle, you will first need to draw the base. The base is 4 cm long, so you will need to draw a line 4 cm long.
+
+
+3. Next, you will need to draw the two equal sides of the triangle. The sides are 5 cm long, so you will need to draw two lines 5 cm long from the endpoints of the base.
+
+
+4. Finally, you will need to connect the endpoints of the two equal sides to form the triangle.
+
+
+5. The final step is to check that the triangle is an isosceles triangle. To do this, you will need to measure the two equal sides and make sure that they are the same length. You will also need to measure the base and make sure that it is shorter than the two equal sides.
+
+
+6. If the triangle is not an isosceles triangle, you will need to adjust the lengths of the sides until it is.
+
+
+7. Once you are satisfied that the triangle is an isosceles triangle, you can finish the drawing.
+-------------------------------------------
+\section{M042300Z}
+ 1. Type of question: Drawing.
+
+2. First, mark point $B$ on the graph. To do this, find the point on the circle that is 3 units away from the origin. Then, draw a line from the origin to this point. This is the point $B$. 
+
+Next, mark point $C$ on the graph. To do this, find the point on the circle that is 4 units away from the origin. Then, draw a line from the origin to this point. This is the point $C$.
+
+3. To draw angle $BOC$, connect points $B$ and $C$ with a straight line.
+
+4. To find the measure of angle $BOC$, find the difference between the angles of points $B$ and $C$. The angle of point $B$ is $30^\circ$. The angle of point $C$ is $120^\circ$. Therefore, the angle of angle $BOC$ is $120^\circ - 30^\circ = 90^\circ$.
+
+Answer: $90^{\circ}$
+-------------------------------------------
+\section{M052084}
+1. Type of question: Multiple choice.
+2. Thought process:
+- The perimeter of a square is the sum of the lengths of all four sides.
+- Since the perimeter is $36 \mathrm{~cm}$, each side must be $36 \mathrm{~cm} / 4 = 9 \mathrm{~cm}$.
+- The area of a square is the square of the length of one side.
+- Therefore, the area of this square is $9 \mathrm{~cm} \times 9 \mathrm{~cm} = 81 \mathrm{~cm}^{2}$.
+3. Answer: [A] $81 \mathrm{~cm}^{2}$
+-------------------------------------------
+\section{M052206}
+ 1. Type of question: Free text response.
+
+2. Thought process and reasoning:
+- The volume of the box is 30 * 36 * 20 = 21600 cm^3. 
+- The volume of a book is 20 * 15 * 6 = 1800 cm^3. 
+- So the largest number of books that will fit inside the box is 21600 / 1800 = 12.
+
+3. Answer: 12.
+-------------------------------------------
+\section{M052362}
+ 1. The question is a multiple-choice question.
+2. Since $AC = BC$, we know that $CX$ is the median of triangle $ABC$. We also know that the median of a triangle divides the triangle into two equal areas. Therefore, the area of triangle $ABC$ is twice the area of triangle $AXC$.
+
+3. The answer is [B] 60 degrees.
+-------------------------------------------
+\section{M052408}
+ 1. Type of question: Free text response.
+
+2. Thought process and reasoning:
+The given diagram shows two parallel lines cut by a transversal. 
+Angles on the same side of the transversal are supplementary. 
+So, the angle on the same side of the transversal as the 70-degree angle must be 180 - 70 = 110 degrees. 
+The angle b is vertical to this angle, so it must also be 110 degrees.
+
+3. Answer: 110 degrees.
+-------------------------------------------
+\section{M032132}
+1. Type of question: Multiple choice.
+2. Thought process: Since the machine has the same number of candies of each color, the probability of getting a pink candy is 1/4. This probability does not change after Megan gets a pink candy.
+3. Answer: [C] It is exactly as likely as it was for Megan.
+-------------------------------------------
+\section{M032507}
+ 1. This is a multiple-choice question.
+2. First, identify the total number of sectors in the spinner. There are 5 sectors.
+3. Next, identify the number of red sectors. There is 1 red sector.
+4. To calculate the probability of the arrow landing on the red sector, divide the number of red sectors by the total number of sectors. 1/5 = 0.2
+5. Multiply the probability by the total number of spins to find the expected number of times the arrow will land on the red sector. 0.2 * 600 = 120
+6. The closest answer choice to 120 is [D] 60.
+7. Answer: [D]
+-------------------------------------------
+\section{M032681A}
+ 1. The question is asking about the time when the total number of cars produced reaches 150. This is a free text response question.
+
+
+2. The graph shows the car production of the NU Car Motor Company during a particular day. The solid line shows the actual production, and the dotted line shows the total number of cars that would be produced if the rate of production were constant.
+
+
+3. To find the time when the total number of cars produced reaches 150, we need to find the point where the solid line intersects the dotted line. We can see that this occurs at approximately 11:30 am.
+
+
+4. Therefore, the answer is 11:30 am.
+-------------------------------------------
+\section{M032681B}
+ 1. The question is a free-text response question.
+2. First, we need to find the total number of cars produced. The graph shows that the company produced 400 cars in 8 hours. So, the average number of cars produced per hour is 400 / 8 = 50 cars per hour.
+3. Answer: 50 cars per hour.
+-------------------------------------------
+\section{M032681C}
+ 1. The question type is multiple choice.
+2. The question asks about the hour when the most cars were produced. We can see that the solid line is the production curve and the dotted line is the target production curve. The most cars were produced when the solid line is above the dotted line. We can see that this happens between 3 pm and 4 pm.
+3. The answer is [D].
+-------------------------------------------
+\section{M032695}
+ 1. The question is a drawing question. We need to make a pie chart showing the proportions of students planning to do each of these.
+
+
+2. First, we need to find the total number of students. 
+50 + 100 + 150 + x = 400
+x = 100 
+
+
+3. Now, we need to find the proportion of students planning to go to university. 
+50/400 = 1/8
+
+
+4. Next, we need to find the proportion of students planning to go to a polytechnic school. 
+100/400 = 1/4
+
+
+5. Then, we need to find the proportion of students planning to go to a business college. 
+150/400 = 3/8
+
+
+6. Finally, we need to find the proportion of students planning to enter the workforce. 
+100/400 = 1/4
+
+
+7. Now, we can draw the pie chart. 
+- Draw a circle.
+- Divide the circle into 8 equal parts. 
+- Label each part with the corresponding option.
+- Shade 1/8 of the circle for university. 
+- Shade 1/4 of the circle for polytechnic school. 
+- Shade 3/8 of the circle for business college. 
+- Shade 1/4 of the circle for workforce. 
+
+
+8. The pie chart is complete.
+-------------------------------------------
+\section{M032721}
+ 1. The question is a multiple-choice question.
+2. We can see that the sales of Cherry Cola are increasing by 10 million cans each year, while the sales of Lemon Cola are increasing by 5 million cans each year. So, in order for the sales of Cherry Cola to be the same as the sales of Lemon Cola, the sales of Cherry Cola need to increase by 20 million cans. This will happen in the year 2003, as the sales of Cherry Cola will be 60 million cans and the sales of Lemon Cola will be 40 million cans.
+3. The answer is [A] 2003.
+-------------------------------------------
+\section{M042169A}
+1. Type of question: Free text response
+2. Thought process:
+- The mean number of staff members is the average number of staff members in the 5 restaurants.
+- To find the mean, we need to add up the number of staff members in all 5 restaurants and then divide by 5.
+- The total number of staff members is $12+18+19+21+30=100$.
+- The mean number of staff members is $100/5=20$.
+3. Answer: 20
+-------------------------------------------
+\section{M042169B}
+1. Type of question: Free text response.
+2. Thought process:
+- The median is the middle value when the numbers are arranged in order.
+- First, I need to arrange the numbers in order from smallest to largest: $12, 18, 19, 21, 30$.
+- The middle value is $19$.
+3. Answer: 19
+-------------------------------------------
+\section{M042169C}
+1. Type of question: Free text response.
+2. Thought process and reasoning: 
+- First, we need to know the definitions of mean and median. 
+- Mean is the sum of all values divided by the number of values in a dataset. 
+- Median is the middle value when the values are listed in ascending order. 
+- Then, we can calculate the original mean and median of the given dataset. 
+- After that, we can calculate the new mean and median if the restaurant with 30 staff members increased its number of staff members to 50. 
+- Finally, we can compare the original mean and median with the new mean and median to see how they are affected.
+3. Answer: 
+- Original mean = (12 + 18 + 19 + 21 + 30) / 5 = 20
+- Original median = 19
+- New mean = (12 + 18 + 19 + 21 + 50) / 5 = 26
+- New median = 21
+- The mean will increase from 20 to 26, and the median will increase from 19 to 21.
+-------------------------------------------
+\section{M042177}
+1. Type of question: Multiple choice.
+2. Thought process:
+- The total number of bottles ordered is 1,200.
+- The percentage of regular-sized bottles is 50%.
+- To find the number of regular-sized bottles, we need to multiply the total number of bottles by the percentage of regular-sized bottles.
+3. Answer: [B] 480.
+-------------------------------------------
+\section{M042179}
+1. Type of question: Multiple choice.
+2. Thought process: 
+- There are 8 blue buttons and 4 white buttons, so there are a total of 8 + 4 = 12 blue or white buttons.
+- There are a total of 10 + 8 + 4 = 22 buttons in the bag.
+- The chance of taking out either a blue button or a white button is 12/22.
+3. Answer: [B] $\frac{8}{22}$
+-------------------------------------------
+\section{M042207}
+ 1. The question type is drawing.
+
+
+2. First, calculate the total number of students:
+60 + 180 + 120 + 120 = 480 students.
+
+Then, calculate the percentage of students who named each sport as their favorite:
+Hockey: 60 / 480 * 100% = 12.5%
+Football: 180 / 480 * 100% = 37.5%
+Tennis: 120 / 480 * 100% = 25%
+Basketball: 120 / 480 * 100% = 25%
+
+Finally, draw the pie chart by dividing the circle into sectors proportional to the percentage of students who named each sport as their favorite.
+
+
+3. The answer is a drawing of a pie chart with 4 sectors. 
+- The sector for Hockey should be 12.5% of the pie. 
+- The sector for Football should be 37.5% of the pie.
+- The sector for Tennis should be 25% of the pie. 
+- The sector for Basketball should be 25% of the pie.
+-------------------------------------------
+\section{M042260}
+1. Type of question: Multiple choice.
+2. Thought process: 
+- The question asks about the likelihood of a student voted for Pat.
+- The election results show that Pat received 80% of the votes, which is a high percentage.
+- Therefore, it is likely that a student asked at random would have voted for Pat.
+3. Answer: [B] It is likely that the student voted for Pat.
+-------------------------------------------
+\section{M042269}
+1. Type of question: Multiple choice.
+2. Thought process:
+- The question asks for a statement that MUST be true.
+- The average length of Team B is greater than that of Team A.
+- This means that the sum of the jump lengths of Team B is greater than that of Team A.
+- Since there are the same number of students in each team, the average length is the sum of the jump lengths divided by the number of students.
+- Therefore, the sum of the jump lengths of Team B is greater than that of Team A.
+3. Answer: [C] As a group, team B jumped farther than team A.
+-------------------------------------------
+\section{M052429}
+1. Type of question: Multiple choice.
+2. Thought process: 
+- The probability of drawing a red marble is the number of red marbles divided by the total number of marbles.
+- Since there are 5 red marbles and 10 total marbles, the probability of drawing a red marble is 5/10 = 1/2.
+3. Answer: [A] $\frac{1}{2}$
+-------------------------------------------
+\section{M052503A}
+ 1. The question is asking about the age structure of two countries and its impact on population growth. It is a multiple-choice question.
+
+
+2. The graphs show the age structure of the population in Country X and Country Y. The age structure of Country X is younger than the age structure of Country Y. This means that there are more people in Country X who are in the 0-19 age group and fewer people in Country X who are in the 20-44 age group.
+
+
+3. The age structure of Country X could lead to more rapid population growth than the age structure of Country Y because there are more people in Country X who are in the 0-19 age group. This means that there will be more people in Country X who will be entering the 20-44 age group in the future. The 20-44 age group is the age group when most people have children. So, the larger number of people in the 0-19 age group in Country X will lead to a larger number of people in the 20-44 age group in the future. This will lead to more births and more rapid population growth in Country X.
+
+
+4. Answer: [A]
+-------------------------------------------
+\section{M052503A}
+ 1. The question type is free-text response.
+2. Country Y has a larger percentage of its population in the 0-19 age group than Country X. This means that in the future, Country Y will have a larger elderly population than Country X, as the 0-19 age group grows up. In addition, Country Y has a smaller percentage of its population in the 20-44 age group than Country X. This means that in the future, Country Y will have a smaller workforce to support its elderly population than Country X.
+3. Answer: Country Y could expect to have a bigger problem taking care of its elderly population than Country X because it has a larger percentage of its population in the 0-19 age group and a smaller percentage of its population in the 20-44 age group.
+-------------------------------------------
+\section{M032402}
+ 1. The question is a multiple-choice question.
+2. We can use the Pythagorean theorem to determine if the triangle is a right angle triangle. The Pythagorean theorem states that in a right angle triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides. In this case, the hypotenuse is 5 cm, and the other two sides are 3 cm and 4 cm. So, we can calculate that 3^2 + 4^2 = 5^2, which is true. Therefore, the triangle is a right angle triangle.
+3. The answer is [A].
+-------------------------------------------
+\section{M052503B}
+ 1. The question is asking about the age structure of the population in Country X and Country Y. It is a free text response question.
+
+
+2. The graphs show that Country X has a larger percentage of its population in the 0-19 age group than Country Y. This means that Country X will have a larger number of people entering the workforce in the future. Country Y, on the other hand, has a larger percentage of its population in the 65+ age group. This means that Country Y will have a larger number of people retiring and leaving the workforce in the future. This could lead to a shortage of workers in Country Y and a smaller tax base to support the elderly population.
+
+
+3. Answer: Country Y could expect to have a bigger problem taking care of its elderly population than Country X because it will have a smaller workforce to support a larger number of retirees.
+-------------------------------------------

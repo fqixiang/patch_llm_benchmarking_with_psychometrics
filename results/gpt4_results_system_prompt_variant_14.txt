@@ -1,0 +1,1219 @@
+\section{M032064}
+No choices available in the response.
+-------------------------------------------
+\section{M032094}
+No choices available in the response.
+-------------------------------------------
+\section{M032166}
+No choices available in the response.
+-------------------------------------------
+\section{M032595}
+To find the total number of white or green caps, we need to calculate the number of each based on the percentages given and then add them together.
+
+White caps make up 30% of the total, and green caps make up 25% of the total. Since there are 200 caps in total, we calculate the number of white and green caps as follows:
+
+White caps: 30% of 200 = 0.30 * 200 = 60 caps
+Green caps: 25% of 200 = 0.25 * 200 = 50 caps
+
+Now, we add the number of white caps to the number of green caps:
+
+60 white caps + 50 green caps = 110 caps
+
+Therefore, the total number of caps that are either white or green is 110.
+
+The correct answer is [C] 110.
+-------------------------------------------
+\section{M032626}
+No choices available in the response.
+-------------------------------------------
+\section{M032662}
+No choices available in the response.
+-------------------------------------------
+\section{M032725}
+No choices available in the response.
+-------------------------------------------
+\section{M042002}
+No choices available in the response.
+-------------------------------------------
+\section{M042016}
+No choices available in the response.
+-------------------------------------------
+\section{M042024}
+The number line shows the numbers 26 and 28 with equal intervals between them, and the point labeled "K" falls between 27 and 28. There are ten intervals between the whole numbers, indicating that each interval represents a tenth (0.1).
+
+The point "K" is two intervals to the right of 27, which means it is 0.2 more than 27. Therefore, the number that "K" represents is 27.2.
+
+However, none of the options [A] 27.4, [B] 27.8, [C] 27.9, or [D] 28.2 match the value of 27.2, which suggests there might be an error in the options provided or in the interpretation of the number line. Based on the image, "K" should be 27.2, but this is not one of the choices given.
+-------------------------------------------
+\section{M042031}
+No choices available in the response.
+-------------------------------------------
+\section{M042032}
+No choices available in the response.
+-------------------------------------------
+\section{M042041}
+No choices available in the response.
+-------------------------------------------
+\section{M042059}
+No choices available in the response.
+-------------------------------------------
+\section{M042186}
+The pattern is decreasing the second number by 1 each time and showing the result of the subtraction. The next line in the pattern would be:
+
+$3-(0-1)=3+1=4$
+
+So the next line would be:
+
+$3-(-1)=4$
+-------------------------------------------
+\section{M052061}
+No choices available in the response.
+-------------------------------------------
+\section{M052214}
+No choices available in the response.
+-------------------------------------------
+\section{M052216}
+No choices available in the response.
+-------------------------------------------
+\section{M052228}
+No choices available in the response.
+-------------------------------------------
+\section{M052231}
+No choices available in the response.
+-------------------------------------------
+\section{M032047}
+Let's denote the three consecutive whole numbers as follows:
+
+- The first number: $2n - 1$ (since it's one less than the middle number)
+- The middle number: $2n$
+- The third number: $2n + 1$ (since it's one more than the middle number)
+
+Now, let's find the sum of these three numbers:
+
+$(2n - 1) + (2n) + (2n + 1)$
+
+Combine like terms:
+
+$2n + 2n + 2n - 1 + 1$
+
+$6n + 0$
+
+$6n$
+
+Therefore, the sum of the three consecutive whole numbers with $2n$ as the middle number is $6n$.
+
+The correct answer is:
+
+[B] $6n$
+-------------------------------------------
+\section{M032295}
+No choices available in the response.
+-------------------------------------------
+\section{M032352}
+No choices available in the response.
+-------------------------------------------
+\section{M032419}
+No choices available in the response.
+-------------------------------------------
+\section{M032424}
+No choices available in the response.
+-------------------------------------------
+\section{M032477}
+The cost to hire a taxi for a trip of $n$ kilometers consists of two parts: the basic charge and the charge per kilometer. The basic charge is a fixed amount of 25 zeds, and the charge per kilometer is 0.2 zeds for each kilometer driven.
+
+The total cost can be calculated by adding the basic charge to the product of the charge per kilometer and the number of kilometers driven. Mathematically, this is represented as:
+
+Total Cost = Basic Charge + (Charge per Kilometer × Number of Kilometers)
+
+Substituting the given values, we get:
+
+Total Cost = 25 + (0.2 × $n$)
+
+This matches with option [A] $25+0.2 n$. 
+
+So the correct answer is [A] $25+0.2 n$.
+-------------------------------------------
+\section{M032538}
+No choices available in the response.
+-------------------------------------------
+\section{M032673}
+No choices available in the response.
+-------------------------------------------
+\section{M032683}
+No choices available in the response.
+-------------------------------------------
+\section{M032738}
+No choices available in the response.
+-------------------------------------------
+\section{M032757}
+No choices available in the response.
+-------------------------------------------
+\section{M032760A}
+The image provided shows two square shapes made of tiles, with the first shape being a $3 \times 3$ grid and the second shape being a $4 \times 4$ grid. The black tiles are at the center of each shape, and their number increases in a square number pattern: $1^2$ black tile for the $3 \times 3$ shape and $2^2$ black tiles for the $4 \times 4$ shape. The red tiles fill the remaining spaces.
+
+From the table, we can see that the number of black tiles follows the square of the difference between the shape size and 2:
+
+- $3 \times 3$ shape has $(3-2)^2 = 1^2 = 1$ black tile,
+- $4 \times 4$ shape has $(4-2)^2 = 2^2 = 4$ black tiles,
+- $5 \times 5$ shape has $(5-2)^2 = 3^2 = 9$ black tiles.
+
+Based on this pattern, for a shape with a total of $64$ tiles, which is an $8 \times 8$ shape, the number of black tiles would be $(8-2)^2 = 6^2 = 36$ black tiles.
+
+The number of red tiles is the total number of tiles minus the number of black tiles. So for the $8 \times 8$ shape with a total of $64$ tiles, the number of red tiles would be $64 - 36 = 28$ red tiles.
+
+Therefore, the shape with a total of $64$ tiles would have $36$ black tiles and $28$ red tiles.
+-------------------------------------------
+\section{M032760B}
+No choices available in the response.
+-------------------------------------------
+\section{M032760C}
+No choices available in the response.
+-------------------------------------------
+\section{M032761}
+No choices available in the response.
+-------------------------------------------
+\section{M042067}
+To find the area of a rectangle, you multiply its length by its width. In this case, the length is given as \(x + 2\) and the width as \(x\).
+
+So, the area \(A\) of the rectangle is:
+\[ A = \text{length} \times \text{width} = (x + 2) \times x \]
+
+Expanding this, we get:
+\[ A = x \times x + 2 \times x = x^2 + 2x \]
+
+Therefore, the area of the rectangle is given by option [B] \(x^{2}+2x\).
+-------------------------------------------
+\section{M042077}
+No choices available in the response.
+-------------------------------------------
+\section{M042086}
+No choices available in the response.
+-------------------------------------------
+\section{M042103}
+No choices available in the response.
+-------------------------------------------
+\section{M042198A}
+No choices available in the response.
+-------------------------------------------
+\section{M042198B}
+No choices available in the response.
+-------------------------------------------
+\section{M042198C}
+To find the term number $n$, we need to observe the pattern in the given sequence. Looking at the sequence:
+
+$$
+\frac{1}{2}, \frac{2}{3}, \frac{3}{4}, \frac{4}{5}, \frac{5}{6}
+$$
+
+We can see that the numerator of each fraction is one less than the denominator. For the first term, the numerator is 1 and the denominator is 2; for the second term, the numerator is 2 and the denominator is 3; and so on.
+
+So, the $n$-th term in this sequence can be represented as:
+
+$$
+\frac{n}{n+1}
+$$
+
+This is because for term number $n$, the numerator will be $n$ and the denominator will be one more than the numerator, which is $n+1$.
+-------------------------------------------
+\section{M042226}
+No choices available in the response.
+-------------------------------------------
+\section{M042228}
+No choices available in the response.
+-------------------------------------------
+\section{M042235}
+No choices available in the response.
+-------------------------------------------
+\section{M042236}
+No choices available in the response.
+-------------------------------------------
+\section{M042245}
+Let's check each equation with the given pairs of numbers $(0,-1)$ and $(1,3)$.
+
+[A] $x+y=-1$
+
+For $(0,-1)$: $0+(-1)=-1$, which is true.
+For $(1,3)$: $1+3=4$, which is not equal to $-1$. So, option [A] is not satisfied by both pairs.
+
+[B] $2x+y=5$
+
+For $(0,-1)$: $2(0)+(-1)=-1$, which is not equal to $5$. So, option [B] is not satisfied by the first pair, and we don't need to check the second pair.
+
+[C] $3x-y=0$
+
+For $(0,-1)$: $3(0)-(-1)=1$, which is not equal to $0$. So, option [C] is not satisfied by the first pair, and we don't need to check the second pair.
+
+[D] $4x-y=1$
+
+For $(0,-1)$: $4(0)-(-1)=1$, which is true.
+For $(1,3)$: $4(1)-3=4-3=1$, which is also true.
+
+Both pairs satisfy equation [D] $4x-y=1$. Therefore, the correct answer is [D].
+-------------------------------------------
+\section{M052002}
+No choices available in the response.
+-------------------------------------------
+\section{M052173}
+No choices available in the response.
+-------------------------------------------
+\section{M052302}
+No choices available in the response.
+-------------------------------------------
+\section{M032100}
+No choices available in the response.
+-------------------------------------------
+\section{M032116}
+No choices available in the response.
+-------------------------------------------
+\section{M032324}
+Let $M$ be the midpoint of $AB$ and $N$ be the midpoint of $BC$. Since $M$ is the midpoint of $AB$, $AM = MB = \frac{AB}{2} = \frac{10}{2} = 5 \text{ cm}$. Similarly, since $N$ is the midpoint of $BC$, $BN = NC = \frac{BC}{2} = \frac{5.2}{2} = 2.6 \text{ cm}$.
+
+Now, the distance between the midpoints $M$ and $N$ is the length of the segment $MN$, which is the difference between $AB$ and $BN$. Since $B$ is between $A$ and $C$, $MN = MB + BN = 5 \text{ cm} + 2.6 \text{ cm} = 7.6 \text{ cm}$.
+
+Therefore, the distance between the midpoints of $AB$ and $BC$ is $7.6 \text{ cm}$.
+
+The correct answer is [D] $7.6 \text{ cm}$.
+-------------------------------------------
+\section{M032331}
+No choices available in the response.
+-------------------------------------------
+\section{M032397}
+No choices available in the response.
+-------------------------------------------
+\section{M032398}
+No choices available in the response.
+-------------------------------------------
+\section{M032402}
+No choices available in the response.
+-------------------------------------------
+\section{M032623}
+To find the area of the shaded region, we first need to find the area of the entire rectangle and then subtract the area of the white triangular region.
+
+The area of the rectangle is given by the formula:
+\[ \text{Area of rectangle} = \text{length} \times \text{width} \]
+\[ \text{Area of rectangle} = 16 \, \text{cm} \times 6 \, \text{cm} \]
+\[ \text{Area of rectangle} = 96 \, \text{cm}^2 \]
+
+The area of the white triangle is given by the formula:
+\[ \text{Area of triangle} = \frac{1}{2} \times \text{base} \times \text{height} \]
+\[ \text{Area of triangle} = \frac{1}{2} \times 8 \, \text{cm} \times 6 \, \text{cm} \]
+\[ \text{Area of triangle} = 24 \, \text{cm}^2 \]
+
+Now, subtract the area of the triangle from the area of the rectangle to find the area of the shaded region:
+\[ \text{Area of shaded region} = \text{Area of rectangle} - \text{Area of triangle} \]
+\[ \text{Area of shaded region} = 96 \, \text{cm}^2 - 24 \, \text{cm}^2 \]
+\[ \text{Area of shaded region} = 72 \, \text{cm}^2 \]
+
+Therefore, the area of the shaded region is 72 cm², which corresponds to option [D].
+-------------------------------------------
+\section{M032679}
+No choices available in the response.
+-------------------------------------------
+\section{M032692}
+No choices available in the response.
+-------------------------------------------
+\section{M032734}
+No choices available in the response.
+-------------------------------------------
+\section{M042150}
+Shape B, the triangle, has a line of symmetry. The line of symmetry is indicated by the line that cuts the triangle into two congruent halves, where one half is a mirror image of the other.
+-------------------------------------------
+\section{M042152}
+No choices available in the response.
+-------------------------------------------
+\section{M042201}
+No choices available in the response.
+-------------------------------------------
+\section{M042270}
+No choices available in the response.
+-------------------------------------------
+\section{M042300Z}
+No choices available in the response.
+-------------------------------------------
+\section{M052084}
+No choices available in the response.
+-------------------------------------------
+\section{M052206}
+To determine the largest number of books that will fit inside the box, we need to consider the dimensions of both the books and the box. We need to figure out how many books can fit along each dimension of the box.
+
+The books have the following dimensions:
+- Thickness: 6 cm
+- Width: 20 cm
+- Height: 15 cm
+
+The box has the following dimensions:
+- Length: 36 cm
+- Width: 30 cm
+- Height: 20 cm
+
+Now let's see how many books can fit along each dimension of the box:
+
+- Along the length (36 cm), we can fit 36 cm / 15 cm = 2 books (because the book's height is 15 cm and the box's length is 36 cm).
+- Along the width (30 cm), we can fit 30 cm / 20 cm = 1.5 books. Since we can't have half a book, we'll fit just 1 book along the width.
+- Along the height (20 cm), we can fit 20 cm / 6 cm = 3.33 books. Again, we can't have a fraction of a book, so we'll fit 3 books along the height.
+
+Multiplying these together gives us the total number of books that can fit in the box:
+
+2 books (along the length) * 1 book (along the width) * 3 books (along the height) = 6 books
+
+Therefore, the largest number of books that will fit inside the box is 6.
+-------------------------------------------
+\section{M052362}
+No choices available in the response.
+-------------------------------------------
+\section{M052408}
+No choices available in the response.
+-------------------------------------------
+\section{M032132}
+No choices available in the response.
+-------------------------------------------
+\section{M032507}
+No choices available in the response.
+-------------------------------------------
+\section{M032681A}
+To find out by what time a total of 150 cars had been produced, you need to look at the point on the solid line that corresponds to 150 cars on the y-axis, which represents the total number of cars produced.
+
+Starting from the 150 mark on the y-axis, move horizontally towards the right until you meet the solid line. From that point, you move vertically down to find the corresponding time on the x-axis.
+
+From the graph, it appears that the solid line crosses the 150 mark on the y-axis somewhere between 11 am and 12 noon. The exact time seems to be closer to 11 am than to 12 noon, but it's not exactly at 11 am. It's a bit past 11 am, but without more precise markings, it's difficult to give an exact minute. It's safe to say that by approximately 11:10 am to 11:15 am, the NU Car Motor Company had produced a total of 150 cars.
+-------------------------------------------
+\section{M032681B}
+No choices available in the response.
+-------------------------------------------
+\section{M032681C}
+No choices available in the response.
+-------------------------------------------
+\section{M032695}
+No choices available in the response.
+-------------------------------------------
+\section{M032721}
+No choices available in the response.
+-------------------------------------------
+\section{M042169A}
+To find the mean number of staff members in the 5 restaurants, we need to add up the number of staff members in all the restaurants and then divide by the number of restaurants.
+
+The total number of staff members is:
+$12 + 18 + 19 + 21 + 30 = 100$
+
+Now we divide this total by the number of restaurants, which is 5:
+Mean number of staff members = $\frac{100}{5} = 20$
+
+So, the mean number of staff members in the 5 restaurants is 20.
+-------------------------------------------
+\section{M042169B}
+No choices available in the response.
+-------------------------------------------
+\section{M042169C}
+No choices available in the response.
+-------------------------------------------
+\section{M042177}
+No choices available in the response.
+-------------------------------------------
+\section{M042179}
+No choices available in the response.
+-------------------------------------------
+\section{M042207}
+No choices available in the response.
+-------------------------------------------
+\section{M042260}
+The election results show that Pat received 80% of the votes, while Chris received 20% of the votes. 
+
+If a student is asked at random, the probability that they voted for Pat is 80%. This is a high probability, so the correct answer is:
+
+[B] It is likely that the student voted for Pat.
+-------------------------------------------
+\section{M042269}
+No choices available in the response.
+-------------------------------------------
+\section{M052429}
+No choices available in the response.
+-------------------------------------------
+\section{M052503A}
+No choices available in the response.
+-------------------------------------------
+\section{M052503B}
+No choices available in the response.
+-------------------------------------------
+\section{M032064}
+No choices available in the response.
+-------------------------------------------
+\section{M032094}
+No choices available in the response.
+-------------------------------------------
+\section{M032166}
+To estimate the value of $\frac{7.21 \times 3.86}{10.09}$, we can round each number to the nearest whole number:
+
+$7.21$ is close to $7$,
+$3.86$ is close to $4$,
+$10.09$ is close to $10$.
+
+So an estimate of the given expression would be $\frac{7 \times 4}{10}$.
+
+Therefore, the best estimate from the given options is:
+
+[B] $\frac{7 \times 4}{10}$.
+-------------------------------------------
+\section{M032626}
+No choices available in the response.
+-------------------------------------------
+\section{M032662}
+No choices available in the response.
+-------------------------------------------
+\section{M032725}
+No choices available in the response.
+-------------------------------------------
+\section{M042002}
+No choices available in the response.
+-------------------------------------------
+\section{M042016}
+The table shows the powers of 4 from $4^1$ to $4^6$ and their corresponding values. According to the table, $4^4 = 256$ and $4^6 = 4,096$.
+
+To find the value of $256 \times 4,096$ as a power of 4, we can use the property of exponents which states that when multiplying two powers with the same base, you add the exponents.
+
+So, $256 \times 4,096 = 4^4 \times 4^6 = 4^{4+6} = 4^{10}$.
+
+Therefore, the correct answer is:
+
+[A] $4^{10}$
+-------------------------------------------
+\section{M042031}
+No choices available in the response.
+-------------------------------------------
+\section{M042032}
+No choices available in the response.
+-------------------------------------------
+\section{M042041}
+No choices available in the response.
+-------------------------------------------
+\section{M042059}
+No choices available in the response.
+-------------------------------------------
+\section{M052061}
+To find the smallest number of boxes Kim needs to pack all the eggs, we need to divide the total number of eggs by the number of eggs each box can hold. 
+
+The total number of eggs is 94, and each box holds 6 eggs. 
+
+Dividing 94 by 6 gives us:
+
+\[ \frac{94}{6} = 15 \text{ remainder } 4 \]
+
+This means she can fill 15 boxes completely, but she will have 4 eggs left over. 
+
+Since she can't put the remaining 4 eggs in a box that's already full, she will need an additional box for those eggs. 
+
+Therefore, the smallest number of boxes she needs to pack all the eggs is:
+
+\[ 15 \text{ (full boxes) } + 1 \text{ (additional box for the remaining eggs) } = 16 \text{ boxes} \]
+-------------------------------------------
+\section{M052214}
+No choices available in the response.
+-------------------------------------------
+\section{M052216}
+No choices available in the response.
+-------------------------------------------
+\section{M052228}
+No choices available in the response.
+-------------------------------------------
+\section{M052231}
+No choices available in the response.
+-------------------------------------------
+\section{M032295}
+Each person, whether a boy or a girl, carried 2 balloons. Therefore, for each boy, there are 2 balloons, and for each girl, there are also 2 balloons.
+
+The total number of boys is $m$, so the total number of balloons carried by the boys is $2m$.
+The total number of girls is $n$, so the total number of balloons carried by the girls is $2n$.
+
+To find the total number of balloons, we add the number of balloons carried by the boys to the number of balloons carried by the girls:
+
+Total number of balloons = Balloons carried by boys + Balloons carried by girls
+Total number of balloons = $2m + 2n$
+
+We can factor out the 2 from both terms to simplify the expression:
+
+Total number of balloons = $2(m + n)$
+
+Therefore, the correct expression that represents the total number of balloons that were carried in the parade is:
+
+[A] $2(m+n)$
+-------------------------------------------
+\section{M032352}
+No choices available in the response.
+-------------------------------------------
+\section{M032419}
+No choices available in the response.
+-------------------------------------------
+\section{M032424}
+No choices available in the response.
+-------------------------------------------
+\section{M032538}
+No choices available in the response.
+-------------------------------------------
+\section{M032673}
+No choices available in the response.
+-------------------------------------------
+\section{M032683}
+To simplify the expression $\frac{3 x}{8}+\frac{x}{4}+\frac{x}{2}$, we first need to find a common denominator for the fractions. The denominators here are 8, 4, and 2, and the least common multiple of these denominators is 8. So, we will express each fraction with a denominator of 8.
+
+The second fraction $\frac{x}{4}$ can be rewritten with a denominator of 8 by multiplying both the numerator and the denominator by 2:
+
+$$\frac{x}{4} = \frac{x \cdot 2}{4 \cdot 2} = \frac{2x}{8}.$$
+
+The third fraction $\frac{x}{2}$ can be rewritten with a denominator of 8 by multiplying both the numerator and the denominator by 4:
+
+$$\frac{x}{2} = \frac{x \cdot 4}{2 \cdot 4} = \frac{4x}{8}.$$
+
+Now we have all the fractions with the same denominator of 8:
+
+$$\frac{3 x}{8} + \frac{2x}{8} + \frac{4x}{8}.$$
+
+We can now add the numerators since the denominators are the same:
+
+$$\frac{3x + 2x + 4x}{8}.$$
+
+Combining the numerators gives us:
+
+$$\frac{3x + 2x + 4x}{8} = \frac{9x}{8}.$$
+
+So the simplified expression is:
+
+$$\frac{9x}{8}.$$
+-------------------------------------------
+\section{M032738}
+No choices available in the response.
+-------------------------------------------
+\section{M032757}
+No choices available in the response.
+-------------------------------------------
+\section{M032760B}
+No choices available in the response.
+-------------------------------------------
+\section{M032760C}
+No choices available in the response.
+-------------------------------------------
+\section{M032761}
+The pattern shown in the table indicates that the number of black tiles in an \( n \times n \) square is given by \( (n-2)^2 \). This is because the black tiles form a smaller square inside the larger square, with each side being two tiles less than the larger square.
+
+To find the number of red tiles, we can subtract the number of black tiles from the total number of tiles in the \( n \times n \) square. The total number of tiles in an \( n \times n \) square is \( n^2 \) (since it's the area of the square), so the number of red tiles is \( n^2 - (n-2)^2 \).
+
+Expanding the expression for the number of red tiles gives us:
+\[ n^2 - (n^2 - 4n + 4) \]
+\[ = n^2 - n^2 + 4n - 4 \]
+\[ = 4n - 4 \]
+
+So the number of red tiles for an \( n \times n \) square is \( 4n - 4 \).
+
+The completed line for the shape \( n \times n \) in the table should be:
+
+\[
+\begin{tabular}{|c|c|c|c|}
+\hline
+Shape & \begin{tabular}{c}
+Number of \\
+Black Tiles \\
+\end{tabular} & \begin{tabular}{c}
+Number of \\
+Red Tiles \\
+\end{tabular} & \begin{tabular}{c}
+Total Number \\
+of Tiles \\
+\end{tabular} \\
+\hline
+\( n \times n \) & \( (n-2)^2 \) & \( 4n - 4 \) & \( n^2 \) \\
+\hline
+\end{tabular}
+\]
+
+The accompanying image illustrates the \( 3 \times 3 \) and \( 4 \times 4 \) shapes with the pattern of black and red tiles, confirming the pattern described in the table.
+-------------------------------------------
+\section{M042077}
+No choices available in the response.
+-------------------------------------------
+\section{M042086}
+No choices available in the response.
+-------------------------------------------
+\section{M042103}
+No choices available in the response.
+-------------------------------------------
+\section{M042198A}
+The given pattern consists of fractions that start with the numerator being 1 and the denominator being 2, and with each subsequent term, both the numerator and the denominator increase by 1.
+
+The pattern is as follows:
+$$
+\frac{1}{2}, \frac{2}{3}, \frac{3}{4}, \frac{4}{5}, \frac{5}{6}
+$$
+
+So, following this pattern, the next term would have a numerator that is 1 greater than the previous term's numerator (which is 5), and a denominator that is 1 greater than the previous term's denominator (which is 6).
+
+Thus, the next term in the pattern is:
+$$
+\frac{5 + 1}{6 + 1} = \frac{6}{7}
+$$
+-------------------------------------------
+\section{M042198B}
+No choices available in the response.
+-------------------------------------------
+\section{M042226}
+No choices available in the response.
+-------------------------------------------
+\section{M042228}
+No choices available in the response.
+-------------------------------------------
+\section{M042235}
+No choices available in the response.
+-------------------------------------------
+\section{M042236}
+To find the correct answer, we need to combine like terms in the expression $3 p^{2}+2 p+2 p^{2}+p$.
+
+Combining the terms with $p^{2}$ gives us $3 p^{2} + 2 p^{2} = 5 p^{2}$.
+
+Combining the terms with $p$ gives us $2 p + p = 3 p$.
+
+So the expression simplifies to $5 p^{2} + 3 p$.
+
+Therefore, the correct answer is:
+
+[C] $5 p^{2}+3 p$
+-------------------------------------------
+\section{M052002}
+No choices available in the response.
+-------------------------------------------
+\section{M052173}
+No choices available in the response.
+-------------------------------------------
+\section{M052302}
+No choices available in the response.
+-------------------------------------------
+\section{M032100}
+No choices available in the response.
+-------------------------------------------
+\section{M032116}
+No choices available in the response.
+-------------------------------------------
+\section{M032331}
+To solve this problem, we need to calculate the total angle turned by the minute hand from 6:20 a.m. to 8:00 a.m.
+
+First, let's calculate the angle turned by the minute hand from 6:20 a.m. to 7:00 a.m. At 6:20 a.m., the minute hand is at the 4 on the clock, which is 120 degrees from the 12 (since each minute on the clock represents 6 degrees, as there are 60 minutes in a full 360-degree rotation). By 7:00 a.m., the minute hand will have completed one full rotation (360 degrees) plus the additional 120 degrees to return to the 12.
+
+So from 6:20 a.m. to 7:00 a.m., the minute hand turns through:
+360 degrees (one full rotation) + 120 degrees = 480 degrees
+
+Next, let's calculate the angle turned by the minute hand from 7:00 a.m. to 8:00 a.m. During this time, the minute hand will make another full rotation, which is 360 degrees.
+
+Adding the angles turned during both time periods, we get:
+480 degrees (from 6:20 a.m. to 7:00 a.m.) + 360 degrees (from 7:00 a.m. to 8:00 a.m.) = 840 degrees
+
+Therefore, the minute hand turns through 840 degrees from 6:20 a.m. to 8:00 a.m.
+
+However, none of the options given match this calculation. Let's check the calculation again.
+
+From 6:20 a.m. to 7:00 a.m., the minute hand indeed moves from the 4 to the 12, which is 40 minutes or 240 degrees (40 minutes * 6 degrees per minute).
+
+From 7:00 a.m. to 8:00 a.m., the minute hand makes one full rotation, which is 360 degrees.
+
+Adding these two together, we get:
+240 degrees (from 6:20 a.m. to 7:00 a.m.) + 360 degrees (from 7:00 a.m. to 8:00 a.m.) = 600 degrees
+
+Therefore, the correct answer is:
+
+[B] $600^{\circ}$
+-------------------------------------------
+\section{M032397}
+No choices available in the response.
+-------------------------------------------
+\section{M032398}
+No choices available in the response.
+-------------------------------------------
+\section{M032402}
+No choices available in the response.
+-------------------------------------------
+\section{M032679}
+The figure shows a rectangle folded in half, and a cut is made along the dotted line. Since the paper is folded, cutting along the dotted line would result in two congruent triangles being cut out. The cut creates two identical triangles, each with two sides that are 4 cm (the length of the cut) and one side that is 1 cm (the width of the paper). These two sides of 4 cm each are equal, making the triangles isosceles.
+
+Therefore, the shape of the cutout figure is:
+
+[B] two isosceles triangles
+-------------------------------------------
+\section{M032692}
+No choices available in the response.
+-------------------------------------------
+\section{M032734}
+No choices available in the response.
+-------------------------------------------
+\section{M042152}
+No choices available in the response.
+-------------------------------------------
+\section{M042201}
+No choices available in the response.
+-------------------------------------------
+\section{M042270}
+No choices available in the response.
+-------------------------------------------
+\section{M042300Z}
+I'm unable to physically mark or draw on images. However, I can guide you on how to do it yourself.
+
+To mark point $B(3,30^{\circ})$:
+
+1. Start from the origin, $O$.
+2. Move along the baseline $OA$ until you reach the $30^{\circ}$ angle mark, which is the first line after $0^{\circ}$ (or $360^{\circ}$).
+3. From that angle line, count outwards to the third circle, which represents a distance of 3 from the origin.
+
+To mark point $C(4,120^{\circ})$:
+
+1. Start from the origin, $O$.
+2. Move along the baseline $OA$ until you reach the $120^{\circ}$ angle mark, which is the fourth line after $90^{\circ}$.
+3. From that angle line, count outwards to the fourth circle, which represents a distance of 4 from the origin.
+
+Once you have marked points $B$ and $C$, draw lines from $O$ to $B$ and from $O$ to $C$ to form the angle $BOC$.
+
+To find the measure of angle $BOC$:
+
+Look at the difference in the angle measurements of $B$ and $C$ from the baseline $OA$. Since $B$ is at $30^{\circ}$ and $C$ is at $120^{\circ}$, you subtract the smaller angle from the larger one:
+
+$120^{\circ} - 30^{\circ} = 90^{\circ}$
+
+Therefore, angle $BOC$ measures $90^{\circ}$.
+-------------------------------------------
+\section{M052084}
+No choices available in the response.
+-------------------------------------------
+\section{M052362}
+No choices available in the response.
+-------------------------------------------
+\section{M052408}
+No choices available in the response.
+-------------------------------------------
+\section{M032132}
+No choices available in the response.
+-------------------------------------------
+\section{M032507}
+The spinner is divided into six equal sectors, one of which is red. This means that each sector has an equal chance of being landed on with each spin. Since there are six sectors, the probability of landing on the red sector with any given spin is 1/6.
+
+To find out how many times Steve should expect the arrow to land on the red sector out of 600 spins, we can multiply the total number of spins by the probability of landing on the red sector:
+
+600 spins * (1/6) = 100 spins
+
+However, the options provided do not include 100. It seems there might be an error in the options or in the interpretation of the spinner. If you can provide the correct options or clarify the question, I can assist you further.
+-------------------------------------------
+\section{M032681B}
+No choices available in the response.
+-------------------------------------------
+\section{M032681C}
+No choices available in the response.
+-------------------------------------------
+\section{M032695}
+No choices available in the response.
+-------------------------------------------
+\section{M032721}
+No choices available in the response.
+-------------------------------------------
+\section{M042169B}
+To find the median number of staff members in the 5 restaurants, we need to arrange the numbers in ascending order and then find the middle value. The numbers in ascending order are:
+
+$12, 18, 19, 21, 30$
+
+Since there are 5 numbers, the median will be the third number, which is the middle value:
+
+$12, 18, \textbf{19}, 21, 30$
+
+Therefore, the median number of staff members in the 5 restaurants is 19.
+-------------------------------------------
+\section{M042169C}
+No choices available in the response.
+-------------------------------------------
+\section{M042177}
+No choices available in the response.
+-------------------------------------------
+\section{M042179}
+No choices available in the response.
+-------------------------------------------
+\section{M042207}
+No choices available in the response.
+-------------------------------------------
+\section{M042269}
+No choices available in the response.
+-------------------------------------------
+\section{M052429}
+Since Sue puts the red marble back into the bag after drawing it, the composition of the bag remains the same for the next draw. This means there are still 5 red marbles and 5 blue marbles in the bag, making a total of 10 marbles.
+
+The probability of drawing a red marble at random from the bag is therefore the number of red marbles divided by the total number of marbles:
+
+\[ P(\text{Red Marble}) = \frac{\text{Number of Red Marbles}}{\text{Total Number of Marbles}} \]
+
+\[ P(\text{Red Marble}) = \frac{5}{10} \]
+
+\[ P(\text{Red Marble}) = \frac{1}{2} \]
+
+So the correct answer is:
+
+[A] $\frac{1}{2}$
+-------------------------------------------
+\section{M052503A}
+No choices available in the response.
+-------------------------------------------
+\section{M052503B}
+No choices available in the response.
+-------------------------------------------
+\section{M032064}
+No choices available in the response.
+-------------------------------------------
+\section{M032094}
+No choices available in the response.
+-------------------------------------------
+\section{M032626}
+No choices available in the response.
+-------------------------------------------
+\section{M032662}
+No choices available in the response.
+-------------------------------------------
+\section{M032725}
+To convert the mixed number $3 \frac{5}{6}$ to decimal form, we first convert the fraction to a decimal and then add it to the whole number.
+
+The fraction $\frac{5}{6}$ can be converted to a decimal by dividing the numerator by the denominator:
+
+$5 \div 6 = 0.8333...$
+
+Now, we add this decimal to the whole number part:
+
+$3 + 0.8333... = 3.8333...$
+
+Rounded to two decimal places, the result is:
+
+$3.83$
+-------------------------------------------
+\section{M042002}
+No choices available in the response.
+-------------------------------------------
+\section{M042031}
+No choices available in the response.
+-------------------------------------------
+\section{M042032}
+No choices available in the response.
+-------------------------------------------
+\section{M042041}
+No choices available in the response.
+-------------------------------------------
+\section{M042059}
+For James:
+The percentage of successful shots can be calculated by the formula:
+\[
+\text{Percentage} = \left(\frac{\text{Number of Successful Shots}}{\text{Total Number of Shots}}\right) \times 100
+\]
+Given that James made 15 successful shots out of 20, the percentage is:
+\[
+\text{Percentage} = \left(\frac{15}{20}\right) \times 100 = 0.75 \times 100 = 75\%
+\]
+
+For Andrew:
+Given that Andrew's percentage of successful shots is 80%, we can find the number of successful shots by rearranging the formula:
+\[
+\text{Number of Successful Shots} = \left(\frac{\text{Percentage}}{100}\right) \times \text{Total Number of Shots}
+\]
+So the number of successful shots is:
+\[
+\text{Number of Successful Shots} = \left(\frac{80}{100}\right) \times 20 = 0.8 \times 20 = 16
+\]
+
+Therefore, the completed table is:
+
+\begin{tabular}{lrr}
+Name & \begin{tabular}{c}
+Number of \\
+Successful Shots \\
+\end{tabular} & \begin{tabular}{c}
+Percentage \\
+Successful Shots \\
+\end{tabular} \\
+Peter & 10 out of 20 & $50 \%$ \\
+James & 15 out of 20 & $75 \%$ \\
+ &  &  \\
+Andrew & $16$ out of 20 &  $80 \%$ \\
+\end{tabular}
+-------------------------------------------
+\section{M052214}
+No choices available in the response.
+-------------------------------------------
+\section{M052216}
+No choices available in the response.
+-------------------------------------------
+\section{M052228}
+No choices available in the response.
+-------------------------------------------
+\section{M052231}
+No choices available in the response.
+-------------------------------------------
+\section{M032352}
+The table shows a linear relationship between the height of a bush and the length of its shadow. For every increase in bush height, there is a proportional increase in the shadow length.
+
+From the table, we can see that:
+
+- A 20 cm bush casts a 16 cm shadow.
+- A 40 cm bush casts a 32 cm shadow.
+
+This indicates that the shadow length is 0.8 times the height of the bush (since 16/20 = 32/40 = 0.8).
+
+To find the shadow length of a 50 cm bush, we can use this ratio:
+
+Shadow length = 0.8 * Bush height
+Shadow length = 0.8 * 50 cm
+Shadow length = 40 cm
+
+Therefore, the shadow length at 10 a.m. of a bush that has a height of 50 centimeters is 40 centimeters.
+
+The correct answer is [C] $40 \mathrm{~cm}$.
+-------------------------------------------
+\section{M032419}
+No choices available in the response.
+-------------------------------------------
+\section{M032424}
+No choices available in the response.
+-------------------------------------------
+\section{M032538}
+No choices available in the response.
+-------------------------------------------
+\section{M032673}
+No choices available in the response.
+-------------------------------------------
+\section{M032738}
+No choices available in the response.
+-------------------------------------------
+\section{M032757}
+The pattern that Pat is using to create the square shapes involves placing black tiles in the center, forming a smaller square, and surrounding it with red tiles. Based on the $3 \times 3$, $4 \times 4$, and $5 \times 5$ shapes, we can deduce that the number of black tiles is equal to the square of the number of black tiles along one side of the smaller black square. The red tiles fill the remaining area.
+
+For a $3 \times 3$ shape, there is $1 \times 1$ black tile.
+For a $4 \times 4$ shape, there is $2 \times 2$ black tiles.
+For a $5 \times 5$ shape, there is $3 \times 3$ black tiles.
+
+It seems that for an $n \times n$ shape, the number of black tiles is $(n-2) \times (n-2)$.
+
+Using this pattern:
+- For the $6 \times 6$ shape, the number of black tiles will be $(6-2) \times (6-2) = 4 \times 4 = 16$.
+- For the $7 \times 7$ shape, the number of black tiles will be $(7-2) \times (7-2) = 5 \times 5 = 25$.
+
+The total number of tiles in a shape is simply $n \times n$:
+- For the $6 \times 6$ shape, the total number of tiles is $6 \times 6 = 36$.
+- For the $7 \times 7$ shape, the total number of tiles is $7 \times 7 = 49$.
+
+To find the number of red tiles, we subtract the number of black tiles from the total number:
+- For the $6 \times 6$ shape, the number of red tiles is $36 - 16 = 20$.
+- For the $7 \times 7$ shape, the number of red tiles is $49 - 25 = 24$.
+
+Now, let's complete the table:
+
+\begin{tabular}{|c|c|c|c|}
+\hline
+Shape & \begin{tabular}{c}
+Number of \\
+Black Tiles \\
+\end{tabular} & \begin{tabular}{c}
+Number of \\
+Red Tiles \\
+\end{tabular} & \begin{tabular}{c}
+Total Number \\
+of Tiles \\
+\end{tabular} \\
+\hline
+$3 \times 3$ & 1 & 8 & 9 \\
+\hline
+$4 \times 4$ & 4 & 12 & 16 \\
+\hline
+$5 \times 5$ & 9 & 16 & 25 \\
+\hline
+$6 \times 6$ & 16 & 20 & 36 \\
+\hline
+$7 \times 7$ & 25 & 24 & 49 \\
+\hline
+\end{tabular}
+
+This completes the table for the $6 \times 6$ and $7 \times 7$ shapes.
+-------------------------------------------
+\section{M032760B}
+No choices available in the response.
+-------------------------------------------
+\section{M032760C}
+No choices available in the response.
+-------------------------------------------
+\section{M042077}
+No choices available in the response.
+-------------------------------------------
+\section{M042086}
+Given that $a+b=25$, we can multiply both sides of this equation by 2 to get $2a+2b=2 \cdot 25$ or $2a+2b=50$.
+
+Now, we are asked to find the value of $2a+2b+4$. We can add 4 to both sides of the equation $2a+2b=50$ to get:
+
+$2a + 2b + 4 = 50 + 4$
+
+$2a + 2b + 4 = 54$
+
+Therefore, the value of $2a + 2b + 4$ is 54.
+-------------------------------------------
+\section{M042103}
+No choices available in the response.
+-------------------------------------------
+\section{M042198B}
+No choices available in the response.
+-------------------------------------------
+\section{M042226}
+No choices available in the response.
+-------------------------------------------
+\section{M042228}
+No choices available in the response.
+-------------------------------------------
+\section{M042235}
+To find the values of $x$ and $y$, we can use the method of substitution or elimination. Let's use the substitution method.
+
+From the first equation, we can express $x$ in terms of $y$:
+
+$x = 12 - y$
+
+Now, we substitute $x$ in the second equation with $12 - y$:
+
+$2(12 - y) + 5y = 36$
+
+Expanding the equation, we get:
+
+$24 - 2y + 5y = 36$
+
+Combining like terms:
+
+$24 + 3y = 36$
+
+Subtract 24 from both sides:
+
+$3y = 36 - 24$
+
+$3y = 12$
+
+Divide by 3:
+
+$y = 4$
+
+Now that we have the value of $y$, we can substitute it back into the first equation to find $x$:
+
+$x = 12 - y$
+
+$x = 12 - 4$
+
+$x = 8$
+
+Therefore, the values of $x$ and $y$ are $x = 8$ and $y = 4$, which corresponds to option [D].
+-------------------------------------------
+\section{M052002}
+No choices available in the response.
+-------------------------------------------
+\section{M052173}
+No choices available in the response.
+-------------------------------------------
+\section{M052302}
+No choices available in the response.
+-------------------------------------------
+\section{M032100}
+No choices available in the response.
+-------------------------------------------
+\section{M032116}
+The area of a square is given by the formula $A = s^2$, where $s$ is the length of one side of the square. 
+
+Given that the area $A = 144 \mathrm{~cm}^{2}$, we can find the length of one side by taking the square root of the area:
+
+$s = \sqrt{A} = \sqrt{144 \mathrm{~cm}^{2}} = 12 \mathrm{~cm}$
+
+The perimeter $P$ of a square is given by the formula $P = 4s$, where $s$ is the length of one side.
+
+So the perimeter of the square is:
+
+$P = 4s = 4 \times 12 \mathrm{~cm} = 48 \mathrm{~cm}$
+
+Therefore, the correct answer is:
+
+[B] $48 \mathrm{~cm}$
+-------------------------------------------
+\section{M032397}
+No choices available in the response.
+-------------------------------------------
+\section{M032398}
+No choices available in the response.
+-------------------------------------------
+\section{M032402}
+No choices available in the response.
+-------------------------------------------
+\section{M032692}
+No choices available in the response.
+-------------------------------------------
+\section{M032734}
+I'm sorry for any confusion, but as an AI developed by OpenAI, I don't have the capability to directly alter or create images. However, I can explain to you what the completed diagram would look like.
+
+If the triangle flaps of the shape shown in the first image are folded up along the dotted lines, when viewed from directly above, you would see a square with part of its sides obscured by the triangles. The triangles would be seen as smaller shapes attached to each side of the square, with their tips pointing outwards. The line of sight would obscure the base of each triangle, so each triangle would appear as a trapezoid attached to each side of the square.
+
+In the second image, you would need to add these trapezoid shapes to each side of the square to represent the folded-up triangle flaps. The trapezoids would share the longer base with the square and would taper off as they go outward.
+-------------------------------------------
+\section{M042152}
+No choices available in the response.
+-------------------------------------------
+\section{M042201}
+No choices available in the response.
+-------------------------------------------
+\section{M042270}
+No choices available in the response.
+-------------------------------------------
+\section{M052084}
+No choices available in the response.
+-------------------------------------------
+\section{M052362}
+The image shows an isosceles triangle with vertices A, B, and C, where AC is equal to BC. There is also a line segment CX drawn from vertex C to the base AB, which is perpendicular to AB at point X, indicating that CX is an altitude of the triangle. Since AB is twice as long as CX, and CX bisects AB into two equal segments because the triangle is isosceles, we can deduce that the triangle ABC is also a right triangle with the right angle at C.
+
+In a right triangle, the sum of the two non-right angles is 90 degrees. Since AC equals BC, the angles at A and B are also equal. Therefore, the size of angle B is 45 degrees, as it is the other non-right angle in the right triangle, and both angles A and B must add up to 90 degrees.
+-------------------------------------------
+\section{M052408}
+No choices available in the response.
+-------------------------------------------
+\section{M032132}
+No choices available in the response.
+-------------------------------------------
+\section{M032681B}
+No choices available in the response.
+-------------------------------------------
+\section{M032681C}
+No choices available in the response.
+-------------------------------------------
+\section{M032695}
+No choices available in the response.
+-------------------------------------------
+\section{M032721}
+To determine the year in which the sales of Cherry Cola will be the same as the sales of Lemon Cola, we need to analyze the trends shown in the graph and extrapolate the data.
+
+From the graph, we can see that the sales of Cherry Cola are increasing each year, while the sales of Lemon Cola are decreasing. We need to estimate the rate of change for each type of soft drink and then calculate the year when the two will intersect.
+
+However, without exact numerical values for the sales of each type of soft drink for each year, we cannot calculate the exact year of intersection with precision. The graph provides a visual representation, but not the exact values needed for a calculation. Therefore, we cannot determine the correct answer from the given options [A] 2003, [B] 2004, [C] 2005, or [D] 2006 without additional data.
+
+To solve this problem accurately, we would need the exact sales figures for each year or the mathematical equations describing the trends for both Cherry Cola and Lemon Cola. With that information, we could set up an equation where the sales of Cherry Cola equal the sales of Lemon Cola and solve for the year. Since we do not have this information, we cannot provide a definitive answer.
+-------------------------------------------
+\section{M042169C}
+No choices available in the response.
+-------------------------------------------
+\section{M042177}
+No choices available in the response.
+-------------------------------------------
+\section{M042179}
+No choices available in the response.
+-------------------------------------------
+\section{M042207}
+No choices available in the response.
+-------------------------------------------
+\section{M042269}
+The correct answer is [C] As a group, team B jumped farther than team A.
+
+Here's why:
+
+[A] This statement cannot be concluded as true just from the average lengths. It's possible that some students in team A jumped farther than some students in team B, but the overall average for team B was higher.
+
+[B] This statement is similar to [A] and also cannot be concluded as true. We only know the average distance, not the distance of each individual jump.
+
+[C] This statement must be true because if both teams had the same number of students and team B's average jump was longer, then the total distance jumped by team B would be greater than that of team A.
+
+[D] This statement cannot be concluded as necessarily true. While it's possible that some students in team A jumped farther than some in team B, we cannot confirm this based on the average lengths alone. It's also possible that all students in team B jumped farther than all students in team A, but the averages don't provide enough information to confirm this.
+-------------------------------------------
+\section{M052503A}
+No choices available in the response.
+-------------------------------------------
+\section{M052503B}
+No choices available in the response.
+-------------------------------------------

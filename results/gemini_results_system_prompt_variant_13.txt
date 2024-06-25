@@ -1,0 +1,410 @@
+\section{M032064}
+1. Type of question: Free text response
+2. Answer: $350$
+-------------------------------------------
+\section{M032094}
+1. Type of question: Multiple choice
+2. Answer: [B] 0.1043
+-------------------------------------------
+\section{M032166}
+1. Type of question: Multiple choice
+2. Answer: [A] $\frac{7 \times 3}{10}$
+-------------------------------------------
+\section{M032595}
+ 1. Multiple choice
+2. [A]
+-------------------------------------------
+\section{M032626}
+1. Type of question: Multiple choice
+2. Answer: [D] $2 \times 2 \times 3 \times 3$
+-------------------------------------------
+\section{M032662}
+ 1. Multiple choice
+2. A.
+-------------------------------------------
+\section{M032725}
+1. Type of question: Free text response
+2. Answer: 5.83
+-------------------------------------------
+\section{M042002}
+ 1. Type of question: Free text response.
+
+2. Answer: 9375.
+-------------------------------------------
+\section{M042016}
+1. Type of question: Multiple choice
+2. Answer: [B]
+-------------------------------------------
+\section{M042024}
+ 1. Multiple choice
+2. [C] 27.9
+-------------------------------------------
+\section{M042031}
+1. Type of question: Multiple choice
+2. Answer: [A] 6
+-------------------------------------------
+\section{M042032}
+1. Type of question: Multiple choice
+2. Answer: [A]
+-------------------------------------------
+\section{M042041}
+1. Type of question: Multiple choice
+2. Answer: [B] $12 \mathrm{~m}$
+-------------------------------------------
+\section{M042059}
+1. Type of question: Free text response
+2. Answer: 
+- James: 75%
+- Andrew: 16 out of 20
+-------------------------------------------
+\section{M042186}
+1. Type of question: Free text response
+2. Answer: $3-(-1)=4$
+-------------------------------------------
+\section{M052061}
+1. Type of question: Free text response
+2. Answer: 16
+-------------------------------------------
+\section{M052214}
+1. Type of question: Multiple choice
+2. Answer: [B]
+-------------------------------------------
+\section{M052216}
+1. Type of question: Multiple choice
+2. Answer: [A] 0.8
+-------------------------------------------
+\section{M052228}
+1. Type of question: Multiple choice
+2. Answer: [C]
+-------------------------------------------
+\section{M052231}
+1. Type of question: Free text response
+2. Answer: 48.4
+-------------------------------------------
+\section{M032047}
+1. Type of question: Multiple choice
+2. Answer: [A] $6 n+3$
+-------------------------------------------
+\section{M032295}
+1. Type of question: Multiple choice
+2. Answer: [A] $2(m+n)$
+-------------------------------------------
+\section{M032352}
+1. Type of question: Multiple choice
+2. Answer: [B] $38 \mathrm{~cm}$
+-------------------------------------------
+\section{M032419}
+ 1. Multiple choice
+2. A.
+-------------------------------------------
+\section{M032424}
+ 1. Multiple choice
+2. [C] 7 g
+
+The first picture shows that the weight of one block is more than 8 g. The second picture shows that the weight of three blocks is less than 20 g. So the weight of one block must be less than 20 / 3 = 6.67 g. But the weight of one block is more than 8 g. So the weight of one block must be 7 g.
+-------------------------------------------
+\section{M032477}
+1. Type of question: Multiple choice
+2. Answer: [A]
+-------------------------------------------
+\section{M032538}
+1. Type of question: Free text response
+2. Answer: $y=90$
+-------------------------------------------
+\section{M032673}
+1. Type of question: Multiple choice
+2. Answer: [B] 10 and 13
+-------------------------------------------
+\section{M032683}
+1. Type of question: Free text response
+2. Answer:
+$\frac{3x}{8}+\frac{x}{4}+\frac{x}{2}$
+= $\frac{3x}{8}+\frac{2x}{8}+\frac{4x}{8}$
+= $\frac{9x}{8}$
+-------------------------------------------
+\section{M032738}
+1. Type of question: Multiple choice
+2. Answer: [D] Multiply $x$ by $y$, then add 1 .
+-------------------------------------------
+\section{M032757}
+ 1. The question type is free-text response.
+2. For the $6 \times 6$ shape, there are 25 black tiles and 36 red tiles, for a total of 61 tiles. For the $7 \times 7$ shape, there are 36 black tiles and 49 red tiles, for a total of 85 tiles.
+-------------------------------------------
+\section{M032760A}
+ 1. Multiple choice
+2. [D] 16 black tiles and 48 red tiles.
+-------------------------------------------
+\section{M032760B}
+ 1. Free text response
+2. 72
+-------------------------------------------
+\section{M032760C}
+ 1. Type of question: Free text response.
+
+2. Answer: 11.
+-------------------------------------------
+\section{M032761}
+ 1. The question type is free text response.
+
+2. The answer is: $4(n-2)$
+-------------------------------------------
+\section{M042067}
+ 1. The question is a multiple-choice question.
+2. The answer is [B].
+
+The area of a rectangle is equal to its length multiplied by its width. The length of the rectangle is x+2 and the width is x. So the area of the rectangle is (x+2) * x = x^2 + 2x.
+-------------------------------------------
+\section{M042077}
+1. Type of question: Multiple choice
+2. Answer: [C]
+-------------------------------------------
+\section{M042086}
+1. Type of question: Free text response
+2. Answer: 58
+-------------------------------------------
+\section{M042103}
+1. Type of question: Free text response
+2. Answer: [x<10/5]
+-------------------------------------------
+\section{M042198A}
+1. Type of question: Free text response
+2. Answer: [6/7]
+-------------------------------------------
+\section{M042198B}
+1. Type of question: Free text response.
+2. Answer: $\frac{99}{100}$
+-------------------------------------------
+\section{M042198C}
+1. Type of question: Free text response
+2. Answer: $\frac{n}{n+1}$
+-------------------------------------------
+\section{M042226}
+1. Type of question: Free text response
+2. Answer: 42
+-------------------------------------------
+\section{M042228}
+ 1. The question is a free-text response question.
+2. The answer is 18.
+-------------------------------------------
+\section{M042235}
+1. Type of question: Multiple choice
+2. Answer: [A] $x=2, y=10$
+-------------------------------------------
+\section{M042236}
+1. Type of question: Multiple choice
+2. Answer: [C] $5 p^{2}+3 p$
+-------------------------------------------
+\section{M042245}
+1. Type of question: Multiple choice
+2. Answer: [B]
+-------------------------------------------
+\section{M052002}
+1. Type of question: Free text response
+2. Answer: $2x-5$
+-------------------------------------------
+\section{M052173}
+ 1. The question is a multiple-choice question.
+2. The answer is [D].
+
+The area of the shaded portion of the garden is equal to the area of the rectangle with dimensions \(x\) meters by \((x+4)\) meters, minus the area of the rectangle with dimensions \((x-1)\) meters by \(1\) meter.
+
+$$A = x(x+4) - (x-1)(1)$$
+
+$$A = x^2 + 4x - x + 1$$
+
+$$A = x^2 + 3x + 1$$
+-------------------------------------------
+\section{M052302}
+1. Type of question: Multiple choice
+2. Answer: [C] 11
+-------------------------------------------
+\section{M032100}
+ 1. The question is multiple choice.
+2. The answer is [D].
+-------------------------------------------
+\section{M032116}
+1. Type of question: Multiple choice
+2. Answer: [B] $48 \mathrm{~cm}$
+-------------------------------------------
+\section{M032324}
+1. Type of question: Multiple choice
+2. Answer: [A] 2.4 cm
+-------------------------------------------
+\section{M032331}
+1. Type of question: Multiple choice
+2. Answer: [A] $680^{\circ}$
+-------------------------------------------
+\section{M032397}
+ 1. Multiple choice
+2. [D]
+-------------------------------------------
+\section{M032398}
+ 1. The question is a multiple-choice question.
+2. The answer is [C] 45°.
+-------------------------------------------
+\section{M032402}
+ 1. Multiple choice
+2. [A]
+-------------------------------------------
+\section{M032623}
+ 1. Multiple choice
+2. [D]
+-------------------------------------------
+\section{M032679}
+ 1. Multiple choice
+2. [B]
+-------------------------------------------
+\section{M032692}
+ 1. Free text response
+2. The sum of the interior angles of a pentagon is 540 degrees.
+-------------------------------------------
+\section{M032734}
+ 1. Type of question: Drawing
+2. Answer: To complete the drawing, you would fold the flaps up along the dotted lines until they touch the edges of the flaps next to them. The end result would be a square. The square would be made up of four triangles, with the original square in the center.
+-------------------------------------------
+\section{M042150}
+ 1. Multiple choice
+2. A
+-------------------------------------------
+\section{M042152}
+ 1. Multiple choice
+2. B
+-------------------------------------------
+\section{M042201}
+ 1. The question is a free-text response question.
+2. The answer is 10.
+-------------------------------------------
+\section{M042270}
+ Type of question: Drawing.
+
+Answer: 
+1. Draw a horizontal line of length 4 cm from the leftmost point on the grid.
+2. From the right endpoint of the line in step 1, draw a vertical line of length 5 cm.
+3. From the left endpoint of the line in step 1, draw a line connecting to the endpoint of the line in step 2.
+-------------------------------------------
+\section{M042300Z}
+ 1. Type of question: Drawing
+
+2. Answer: 
+- Mark the points \(B\left(3,30^{\circ}\right)\) and \(C\left(4,120^{\circ}\right)\) on the graph above.
+
+To mark the point \(B\left(3,30^{\circ}\right)\), we first find the point on the circle that is 3 units away from the origin. We then draw a line from the origin through this point. The angle between this line and the baseline is 30 degrees.
+
+To mark the point \(C\left(4,120^{\circ}\right)\), we first find the point on the circle that is 4 units away from the origin. We then draw a line from the origin through this point. The angle between this line and the baseline is 120 degrees.
+
+- Draw the angle \(B O C\). What is the measure of angle \(B O C\)?
+
+To draw the angle \(B O C\), we connect the points \(B\) and \(C\). The measure of angle \(B O C\) is the difference between the angles of \(B\) and \(C\). That is,
+
+$$m\angle B O C = 120^\circ - 30^\circ = 90^\circ$$
+
+Therefore, the measure of angle \(B O C\) is 90 degrees.
+-------------------------------------------
+\section{M052084}
+1. Type of question: Multiple choice
+2. Answer: [A] $81 \mathrm{~cm}^{2}$
+-------------------------------------------
+\section{M052206}
+ 1. Type of question: Free-text response.
+2. Answer: 180.
+-------------------------------------------
+\section{M052362}
+ 1. Type of question: Free text response.
+2. Answer: 60 degrees.
+-------------------------------------------
+\section{M052408}
+ 1. Type of question: Multiple choice
+
+2. Answer: [C]
+-------------------------------------------
+\section{M032132}
+1. Type of question: Multiple choice
+2. Answer: [C] It is exactly as likely as it was for Megan.
+-------------------------------------------
+\section{M032507}
+ 1. Multiple choice
+2. [A] 30
+-------------------------------------------
+\section{M032681A}
+ 1. Multiple choice
+2. 2 pm
+-------------------------------------------
+\section{M032681B}
+ 1. Type of question: Free text response.
+2. Answer: 168.75.
+
+The average number of cars produced per hour on this day is 168.75. To find this, we can use the formula:
+
+```
+average speed = (total distance traveled) / (total time)
+```
+
+In this case, the total distance traveled is the total number of cars produced, which is 400. The total time is the number of hours the factory was open, which is 8 hours (from 8am to 4pm). So, the average number of cars produced per hour is:
+
+```
+average speed = 400 cars / 8 hours = 50 cars per hour
+```
+-------------------------------------------
+\section{M032681C}
+ 1. Multiple choice
+2. [4]
+-------------------------------------------
+\section{M032695}
+ 1. Type of question: Drawing
+2. Answer: 
+- Draw a circle.
+- Divide the circle into 8 sectors.
+- Label the sector "University" and make it 1/8 of the circle.
+- Label the sector "Polytechnic school" and make it 1/4 of the circle.
+- Label the sector "Business college" and make it 3/8 of the circle.
+- Label the remaining sector "Workforce".
+-------------------------------------------
+\section{M032721}
+ 1. Type of question: Multiple choice
+2. Answer: [C] 2005
+-------------------------------------------
+\section{M042169A}
+1. Type of question: Free text response.
+2. Answer: [20]
+-------------------------------------------
+\section{M042169B}
+1. Type of question: Free text response
+2. Answer: 19
+-------------------------------------------
+\section{M042169C}
+1. Type of question: Free text response
+2. Answer: The median would increase, but the mean would not be affected.
+-------------------------------------------
+\section{M042177}
+1. Type of question: Multiple choice
+2. Answer: [B] 480
+-------------------------------------------
+\section{M042179}
+1. Type of question: Multiple choice.
+2. Answer: [B] $\frac{8}{22}$
+-------------------------------------------
+\section{M042207}
+ 1. The question type is drawing.
+2. The answer is as follows:
+Divide the circle into 8 equal parts. Label one part "Hockey" and color it red. Label another part "Football" and color it blue. Label a third part "Tennis" and color it green. Label a fourth part "Basketball" and color it yellow. Leave the remaining four parts unlabeled and uncolored.
+-------------------------------------------
+\section{M042260}
+1. Type of question: Multiple choice
+2. Answer: [B] It is likely that the student voted for Pat.
+-------------------------------------------
+\section{M042269}
+1. Type of question: Multiple choice
+2. Answer: [C]
+-------------------------------------------
+\section{M052429}
+1. Type of question: Multiple choice.
+2. Answer: [A] $\frac{1}{2}$
+-------------------------------------------
+\section{M052503A}
+ 1. Multiple choice.
+2. [A]
+-------------------------------------------
+\section{M052503A}
+ 1. Free text response
+2. Country Y will have a bigger problem taking care of its elderly population than Country X because it has a higher percentage of elderly people. The bulge in the graph for Country Y in the 20-40 year-old cohort will become the bulge in the 60-80 year-old cohort in the future. Country X, on the other hand, has a smaller percentage of elderly people and a larger percentage of young people. This means that there will be fewer people of working age to support the elderly population in Country Y than in Country X.
+-------------------------------------------

@@ -1,0 +1,605 @@
+\section{M032064}
+Let $x$ be the number of zeds Ann gets. Then Jenny gets $560 - x$ zeds. Since Jenny gets $\frac{3}{8}$ of the money, we have:
+
+$$560 - x = \frac{3}{8} \cdot 560$$
+
+Solving for $x$, we get:
+
+$$560 - x = 210$$
+
+$$x = 560 - 210$$
+
+$$x = 350$$
+
+Therefore, Ann will get $\boxed{350}$ zeds.
+-------------------------------------------
+\section{M032094}
+[B] 0.1043
+-------------------------------------------
+\section{M032166}
+[B] $\frac{7 \times 4}{10}$
+-------------------------------------------
+\section{M032595}
+ The total number of caps that are either white or green is 110.
+
+The pie chart shows that 30% of the caps are white and 25% of the caps are green. Therefore, the total number of caps that are either white or green is 30% + 25% = 55%.
+
+Since there are 200 caps in total, 55% of 200 caps is 55% * 200 = 110 caps.
+-------------------------------------------
+\section{M032626}
+[D] $2 \times 2 \times 3 \times 3$
+-------------------------------------------
+\section{M032662}
+ The answer is C.
+
+The question is asking about the location of $N$ on the number line. We know that $P$ and $Q$ are two fractions on the number line and $P \times Q=N$. We can see that $P$ is less than $Q$ because $P$ is to the left of $Q$. We also know that $N$ is the product of $P$ and $Q$. So $N$ must be between $P$ and $Q$ because the product of two numbers is always between the two numbers. Therefore, the answer is C.
+-------------------------------------------
+\section{M032725}
+5.83
+-------------------------------------------
+\section{M042002}
+ The four digits placed in the boxes, in order from left to right, top to bottom, are 9, 7, 3, 5.
+-------------------------------------------
+\section{M042016}
+[C] $4^{20}$
+-------------------------------------------
+\section{M042024}
+ [D] 28.2
+-------------------------------------------
+\section{M042031}
+[A] 6
+-------------------------------------------
+\section{M042032}
+[A] $\frac{125}{100}$
+-------------------------------------------
+\section{M042041}
+Let $x$ be the length of the original pipe.
+
+We know that $\frac{1}{5}$ of the pipe was cut off, which is 3 meters long.
+
+Therefore, we can write the equation:
+
+$$\frac{1}{5}x = 3$$
+
+Solving for $x$, we get:
+
+$$x = 3 \times 5 = 15$$
+
+Therefore, the original pipe was $\boxed{15 \mathrm{~m}}$ long.
+
+The correct answer is [C].
+-------------------------------------------
+\section{M042059}
+\begin{tabular}{lrr}
+Name & \begin{tabular}{c}
+Number of \\
+Successful Shots \\
+\end{tabular} & \begin{tabular}{c}
+Percentag \\
+Successful Shots \\
+\end{tabular} \\
+Peter & 10 out of 20 & $50 \%$ \\
+James & 15 out of 20 & $75\%$ \\
+Andrew & 16 out of 20 & $80\%$ \\
+\end{tabular}
+-------------------------------------------
+\section{M042186}
+$3+1=4$
+-------------------------------------------
+\section{M052061}
+$$\lceil\frac{94}{6}\rceil = 16$$
+
+Therefore, Kim needs at least 16 boxes to pack all the eggs.
+-------------------------------------------
+\section{M052214}
+[B] $3 \%$ of $50=6 \%$ of 100
+-------------------------------------------
+\section{M052216}
+[B] 0.6
+-------------------------------------------
+\section{M052228}
+[C] $\frac{3-4}{3 \times 4}$
+-------------------------------------------
+\section{M052231}
+48.398
+-------------------------------------------
+\section{M032047}
+[A] $6 n+3$
+-------------------------------------------
+\section{M032295}
+[A] $2(m+n)$
+-------------------------------------------
+\section{M032352}
+The shadow length is proportional to the height of the bush. So, we can use the ratio of the shadow length to the height of the bush to find the shadow length of a bush with a height of 50 centimeters.
+
+The ratio of the shadow length to the height of the bush is:
+
+$$\frac{16}{20} = \frac{32}{40} = \frac{48}{60} = \frac{64}{80} = 0.8$$
+
+So, the shadow length of a bush with a height of 50 centimeters is:
+
+$$50 \times 0.8 = 40 \mathrm{~cm}$$
+
+Therefore, the answer is [C] $40 \mathrm{~cm}$.
+-------------------------------------------
+\section{M032419}
+ D.
+
+
+The expression \(2x + 3x\) represents the sum of two terms, 2x and 3x. In the image, the two terms are represented by the two segments of the rectangle, with lengths 2x and 3x, respectively. The sum of the two terms is the length of the entire rectangle, which is 5x. Therefore, the expression \(2x + 3x\) is represented by the area of the rectangle.
+-------------------------------------------
+\section{M032424}
+ [D] 8g
+
+Let x be the weight of one block.
+
+x + 8 > 8
+
+3x > 20
+
+x > 6.67
+
+The weight of one block is greater than 6.67g. Only 8g satisfies this condition.
+-------------------------------------------
+\section{M032477}
+[A] $25+0.2 n$
+-------------------------------------------
+\section{M032538}
+$$y=100-\frac{100}{1+9}$$
+$$y=100-\frac{100}{10}$$
+$$y=100-10$$
+$$y=90$$
+-------------------------------------------
+\section{M032673}
+[B] 10 and 13
+-------------------------------------------
+\section{M032683}
+$$\frac{3 x}{8}+\frac{x}{4}+\frac{x}{2}$$
+
+$$=\frac{3 x}{8}+\frac{2x}{8}+\frac{4x}{8}$$
+
+$$=\frac{3 x+2x+4x}{8}$$
+
+$$=\frac{9x}{8}$$
+-------------------------------------------
+\section{M032738}
+[D] Multiply $x$ by $y$, then add 1 .
+-------------------------------------------
+\section{M032757}
+ The table completed is as follows:
+
+| Shape | Number of Black Tiles | Number of Red Tiles | Total Number of Tiles |
+| --- | --- | --- | --- |
+| $3 \times 3$ | 1 | 8 | 9 |
+| $4 \times 4$ | 4 | 12 | 16 |
+| $5 \times 5$ | 9 | 16 | 25 |
+| $6 \times 6$ | 16 | 20 | 36 |
+| $7 \times 7$ | 25 | 24 | 49 |
+-------------------------------------------
+\section{M032760A}
+ The answer is 16 black tiles and 48 red tiles.
+
+We know that the number of black tiles is always one less than the number of red tiles. So, if we can find the number of red tiles, we can easily find the number of black tiles.
+
+To find the number of red tiles, we can use the information from the table. We know that the number of red tiles in the first three shapes are 8, 12, and 16. We can see that the number of red tiles increases by 4 for each shape. So, the number of red tiles in the fourth shape is 16 + 4 = 20.
+
+Since the number of black tiles is always one less than the number of red tiles, the number of black tiles in the fourth shape is 20 - 1 = 19.
+
+Therefore, the answer is 19 black tiles and 48 red tiles.
+-------------------------------------------
+\section{M032760B}
+ The answer is 72.
+
+We know that the number of black tiles is always one less than the square of the side length. So, for a shape with 49 black tiles, the side length must be 8.
+
+The total number of tiles is the square of the side length, so there are 8 * 8 = 64 tiles in total.
+
+The number of red tiles is the total number of tiles minus the number of black tiles, so there are 64 - 49 = 15 red tiles in the shape.
+-------------------------------------------
+\section{M032760C}
+ Pat would need 11 black tiles.
+-------------------------------------------
+\section{M032761}
+ The table shows the number of tiles needed to make a square of size $n \times n$.
+
+| Shape | Number of Black Tiles | Number of Red Tiles | Total Number of Tiles |
+|---|---|---|---|
+| $3 \times 3$ | 1 | 8 | 9 |
+| $4 \times 4$ | 4 | 12 | 16 |
+| $5 \times 5$ | 9 | 16 | 25 |
+| $n \times n$ | $(n-2)^{2}$ | $4n-4$ | $5n-4$ |
+
+The pattern is that the number of black tiles is $(n-2)^{2}$ and the number of red tiles is $4n-4$. So, the total number of tiles is $(n-2)^{2} + 4n-4 = 5n-4$.
+-------------------------------------------
+\section{M042067}
+ The area of a rectangle is equal to its length times its width. The length of the rectangle is \(x+2\) and the width is \(x\). So the area of the rectangle is:
+
+$$A = (x+2)(x) = x^2 + 2x$$
+
+The correct answer is [B].
+-------------------------------------------
+\section{M042077}
+[C] $12+4 x$
+-------------------------------------------
+\section{M042086}
+54
+-------------------------------------------
+\section{M042103}
+$$9 x-6<4 x+4$$
+$$9 x-4 x<4+6$$
+$$5 x<10$$
+$$x<2$$
+-------------------------------------------
+\section{M042198A}
+$$\frac{6}{7}$$
+-------------------------------------------
+\section{M042198B}
+\frac{100}{101}
+-------------------------------------------
+\section{M042198C}
+$$\frac{n}{n+1}$$
+-------------------------------------------
+\section{M042226}
+$P=\frac{3 k l}{5}=\frac{3 \times 7 \times 10}{5}=\frac{210}{5}=42$
+-------------------------------------------
+\section{M042228}
+ The value of \(x\) is 22.
+-------------------------------------------
+\section{M042235}
+[C] $x=6, y=6$
+-------------------------------------------
+\section{M042236}
+[C] $5 p^{2}+3 p$
+-------------------------------------------
+\section{M042245}
+[B] $2 x+y=5$
+-------------------------------------------
+\section{M052002}
+The sum of the lengths of the three pieces must be equal to the original length of the wood, which is 40 cm. Therefore, we have the equation:
+
+$$(2x-5) + (x+7) + (x+6) = 40$$
+
+Simplifying this equation, we get:
+
+$$4x + 8 = 40$$
+
+Subtracting 8 from both sides, we get:
+
+$$4x = 32$$
+
+Dividing both sides by 4, we get:
+
+$$x = 8$$
+
+Therefore, the length of the longest piece is \(x+7 = 8+7 = 15\) cm.
+-------------------------------------------
+\section{M052173}
+ [D] $x^{2}+3 x-1$
+-------------------------------------------
+\section{M052302}
+[B] 10
+-------------------------------------------
+\section{M032100}
+ [C] 15
+-------------------------------------------
+\section{M032116}
+The area of a square is given by $A = s^2$, where $s$ is the length of one side of the square. In this case, we are given that $A = 144 \mathrm{~cm}^{2}$, so we can solve for $s$:
+
+$$s = \sqrt{144 \mathrm{~cm}^{2}} = 12 \mathrm{~cm}$$
+
+The perimeter of a square is given by $P = 4s$, so the perimeter of this square is:
+
+$$P = 4(12 \mathrm{~cm}) = 48 \mathrm{~cm}$$
+
+Therefore, the answer is [B] $48 \mathrm{~cm}$.
+-------------------------------------------
+\section{M032324}
+The midpoint of $AB$ is $M_1$ and the midpoint of $BC$ is $M_2$.
+
+We have $AM_1 = BM_1 = \frac{AB}{2} = 5 \mathrm{~cm}$ and $BM_2 = CM_2 = \frac{BC}{2} = 2.6 \mathrm{~cm}$.
+
+Therefore, $M_1 M_2 = BM_1 + BM_2 = 5 + 2.6 = 7.6 \mathrm{~cm}$.
+
+The answer is [D] $7.6 \mathrm{~cm}$.
+-------------------------------------------
+\section{M032331}
+To solve this problem, we need to determine the number of hours and minutes between 6:20 a.m. and 8:00 a.m. There are 1 hour and 40 minutes between these two times. Since there are 60 minutes in an hour, the total number of minutes between 6:20 a.m. and 8:00 a.m. is 100 minutes.
+
+The minute hand of a clock moves 360 degrees in 60 minutes. Therefore, the minute hand moves 6 degrees per minute. To find the number of degrees the minute hand turns through from 6:20 a.m. to 8:00 a.m., we multiply the number of minutes by 6 degrees per minute.
+
+$$6 \text{ degrees/minute} \times 100 \text{ minutes} = 600 \text{ degrees}$$
+
+Therefore, the minute hand of a clock turns through $\boxed{600^{\circ}}$ from 6:20 a.m. to 8:00 a.m. on the same day. The correct answer is [B] $600^{\circ}$.
+-------------------------------------------
+\section{M032397}
+ [B] reflection and then $\frac{1}{4}$ turn rotation clockwise
+-------------------------------------------
+\section{M032398}
+ Let \(y\) be the angle at the bottom of the left triangle. Since the angles in a triangle add to \(180^\circ\), we have:
+
+$$45^\circ + y + 65^\circ = 180^\circ$$
+
+Solving for \(y\), we get:
+
+$$y = 70^\circ$$
+
+Now, let's look at the big triangle. The angle at the bottom is \(30^\circ\), and the angle at the top is \(65^\circ\). The third angle, which is the one we're looking for, is \(x\). We can use the triangle angle sum property again to find \(x\):
+
+$$30^\circ + 65^\circ + x = 180^\circ$$
+
+Solving for \(x\), we get:
+
+$$x = 85^\circ$$
+
+So, the answer is none of the above.
+-------------------------------------------
+\section{M032402}
+Something went wrong.
+-------------------------------------------
+\section{M032623}
+ The area of a triangle is given by the formula $A = \frac{1}{2}bh$, where $b$ is the base and $h$ is the height. The area of the shaded region is the area of the large rectangle minus the area of the triangle. The area of the large rectangle is $A = 16 \cdot 6 = 96 \mathrm{cm}^{2}$. The base of the triangle is $8 \mathrm{cm}$ and the height is $6 \mathrm{cm}$, so the area of the triangle is $A = \frac{1}{2} \cdot 8 \cdot 6 = 24 \mathrm{cm}^{2}$. Therefore, the area of the shaded region is $96 \mathrm{cm}^{2} - 24 \mathrm{cm}^{2} = 72 \mathrm{cm}^{2}$.
+
+The answer is D.
+-------------------------------------------
+\section{M032679}
+ [B] two isosceles triangles
+-------------------------------------------
+\section{M032692}
+ The sum of the interior angles of a pentagon is $540^\circ$.
+
+To see this, we can first triangulate the pentagon by drawing in three diagonals. This divides the pentagon into three triangles, each of which has a sum of $180^\circ$. So the sum of the interior angles of the pentagon is $3 \cdot 180^\circ = 540^\circ$.
+-------------------------------------------
+\section{M032734}
+ The answer is a square.
+-------------------------------------------
+\section{M042150}
+ A line of symmetry is a line that divides a shape into two mirror images.
+A. has one line of symmetry.
+B. has two lines of symmetry.
+C. has four lines of symmetry.
+D. has no lines of symmetry.
+The correct answer is C.
+-------------------------------------------
+\section{M042152}
+ The correct answer is D.
+-------------------------------------------
+\section{M042201}
+ We know that the volume of a rectangular box is given by the formula:
+
+$$V = lwh$$
+
+where l is the length, w is the width, and h is the height.
+
+In this case, we are given that the volume of the box is 200 cm^3, and the height is 4 cm. We are also given that the width is 5 cm. So, we can plug these values into the formula to find the length:
+
+$$200 = x(5)(4)$$
+
+$$200 = 20x$$
+
+$$x = 10$$
+
+Therefore, the value of x is 10 cm.
+-------------------------------------------
+\section{M042270}
+ \documentclass[tikz]{standalone}
+\usepackage{tikz}
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+\draw[gray, thin] (-1,-1) grid (11,10);
+\draw (0,0)--(4,0)--(2,5)--cycle;
+\end{tikzpicture}
+\end{document}
+-------------------------------------------
+\section{M042300Z}
+ 1. The points $B\left(3,30^{\circ}\right)$ and $C\left(4,120^{\circ}\right)$ are marked on the graph above.
+
+2. The angle $B O C$ is drawn below. The measure of angle $B O C$ is \(90^{\circ}\).
+
+Angle $B O C=\boxed{90}^{\circ}$
+-------------------------------------------
+\section{M052084}
+The perimeter of a square is $4s$, where $s$ is the length of one side. So, if the perimeter is $36 \mathrm{~cm}$, then $4s = 36 \mathrm{~cm}$, which means $s = 9 \mathrm{~cm}$. The area of a square is $s^2$, so the area of this square is $9^2 = 81 \mathrm{~cm}^2$.
+
+The answer is [A] $81 \mathrm{~cm}^{2}$.
+-------------------------------------------
+\section{M052206}
+ We need to find the volume of the box and the volume of each book.
+
+The volume of the box is:
+
+36 cm x 20 cm x 30 cm = 21600 cm^3
+
+The volume of each book is:
+
+15 cm x 20 cm x 6 cm = 1800 cm^3
+
+The largest number of books that will fit inside the box is:
+
+21600 cm^3 / 1800 cm^3 = 12 books
+
+So the answer is 12.
+-------------------------------------------
+\section{M052362}
+ Let $A B=2x$. Then $C X=x$.
+
+Since $A C=B C$, we have $A C^2=B C^2$.
+
+Substituting $A B=2x$ and $C X=x$ into the Pythagorean theorem, we get:
+
+$$(2x)^2+x^2=A C^2=B C^2$$
+
+$$5x^2=A C^2=B C^2$$
+
+Since $A C=B C$, we have:
+
+$$5x^2=A C^2=B C^2=5x^2$$
+
+Therefore,
+
+$$A C=B C=x\sqrt{5}$$
+
+Now, using the cosine rule, we can find the size of angle $B$:
+
+$$B=\arccos{\frac{A C^2+B C^2-A B^2}{2 A C \cdot B C}}$$
+
+Substituting $A C=B C=x\sqrt{5}$ and $A B=2x$ into the cosine rule, we get:
+
+$$B=\arccos{\frac{(x\sqrt{5})^2+(x\sqrt{5})^2-(2x)^2}{2 (x\sqrt{5}) \cdot (x\sqrt{5})}}$$
+
+$$B=\arccos{\frac{5x^2+5x^2-4x^2}{2 \cdot 5x^2}}$$
+
+$$B=\arccos{\frac{6x^2}{10x^2}}$$
+
+$$B=\arccos{\frac{3}{5}}$$
+
+$$B\approx53.13^\circ$$
+
+Therefore, the size of angle $B$ is approximately $53.13^\circ$.
+-------------------------------------------
+\section{M052408}
+ The value of b is 70.
+-------------------------------------------
+\section{M032132}
+[C] It is exactly as likely as it was for Megan.
+-------------------------------------------
+\section{M032507}
+ [A] 30
+-------------------------------------------
+\section{M032681A}
+ By 10:30 a.m., the company had produced 150 cars.
+-------------------------------------------
+\section{M032681B}
+ The average number of cars produced per hour on this day was 150.
+
+The solid line (-----------) on the graph shows car production by the NU Car Motor Company during a particular day.
+
+The dotted line (- - - - -) shows what the total number of cars produced would be if the rate of production were constant.
+
+The average number of cars produced per hour can be found by dividing the total number of cars produced by the number of hours.
+
+The total number of cars produced is 400.
+
+The number of hours is 8.
+
+Therefore, the average number of cars produced per hour is 400 / 8 = 50.
+-------------------------------------------
+\section{M032681C}
+ The most cars were produced during the 4th hour.
+-------------------------------------------
+\section{M032695}
+ \documentclass{article}
+\usepackage{tikz}
+\begin{document}
+\begin{tikzpicture}[scale=3]
+\draw (0,0) circle (1cm);
+\draw (0:1cm) -- (60:1cm);
+\draw (60:1cm) -- (120:1cm);
+\draw (120:1cm) -- (180:1cm);
+\draw (180:1cm) -- (240:1cm);
+\draw (240:1cm) -- (300:1cm);
+\draw (300:1cm) -- (360:1cm);
+
+\node at (30:1cm) {$50$};
+\node at (90:1cm) {$100$};
+\node at (150:1cm) {$150$};
+\node at (210:1cm) {$100$};
+\end{tikzpicture}
+\end{document}
+-------------------------------------------
+\section{M032721}
+ [D]
+-------------------------------------------
+\section{M042169A}
+The mean number of staff members in the 5 restaurants is:
+
+(12 + 18 + 19 + 21 + 30) / 5 = 100 / 5 = 20
+
+Therefore, the mean number of staff members in the 5 restaurants is 20.
+-------------------------------------------
+\section{M042169B}
+The median is the middle value when the data is ordered from smallest to largest. In this case, the data is: $12,18,19,21,30$. The median is $19$.
+-------------------------------------------
+\section{M042169C}
+**Median**
+
+The median is the middle value of a dataset when assorted in the order from smallest to largest. In this case, the numbers of staff members employed in the 5 restaurants are: 
+
+12, 18, 19, 21, and 30 
+
+The median is 19. If the restaurant with 30 staff members increased its number of staff members to 50, the new dataset would be:
+
+12, 18, 19, 21, and 50
+
+The median would then be 20. Therefore, increasing the number of staff members in the restaurant with 30 staff members to 50 would increase the median from 19 to 20.
+
+**Mean**
+
+The mean is the average of a dataset. In this case, the mean number of staff members employed in the 5 restaurants is:
+
+(12 + 18 + 19 + 21 + 30) / 5 = 20
+
+If the restaurant with 30 staff members increased its number of staff members to 50, the new mean would be:
+
+(12 + 18 + 19 + 21 + 50) / 5 = 24
+
+Therefore, increasing the number of staff members in the restaurant with 30 staff members to 50 would increase the mean from 20 to 24.
+-------------------------------------------
+\section{M042177}
+[B] 480
+-------------------------------------------
+\section{M042179}
+[B] $\frac{8}{22}$
+-------------------------------------------
+\section{M042207}
+ The pie chart shows the popularity of sports among 480 students. The following table shows the number of students who named each sport as their favorite.
+
+| Sport | Number of Students | Percentage |
+|---|---|---|
+| Hockey | 60 | 12.5% |
+| Football | 180 | 37.5% |
+| Tennis | 120 | 25% |
+| Basketball | 120 | 25% |
+
+The pie chart is divided into 8 sectors, with each sector representing one of the sports. The size of each sector is proportional to the number of students who named that sport as their favorite.
+-------------------------------------------
+\section{M042260}
+[B] It is likely that the student voted for Pat.
+-------------------------------------------
+\section{M042269}
+```
+\begin{align*}
+\text{Average Length of Team A} &= 3.6 \mathrm{~m} \\
+\text{Average Length of Team B} &= 4.8 \mathrm{~m} \\
+\text{Number of Students in Team A} &= x \\
+\text{Number of Students in Team B} &= x \\
+\end{align*}
+```
+
+Since the number of students in each team is the same, the total distance jumped by each team is:
+
+```
+\begin{align*}
+\text{Total Distance Jumped by Team A} &= x \cdot 3.6 \mathrm{~m} \\
+\text{Total Distance Jumped by Team B} &= x \cdot 4.8 \mathrm{~m} \\
+\end{align*}
+```
+
+Since the average length of Team B is greater than the average length of Team A, the total distance jumped by Team B must be greater than the total distance jumped by Team A. Therefore, statement [C] must be true.
+
+The other statements are not necessarily true. For example, it is possible that some students in Team A jumped farther than some students in Team B, but the average length of Team A is still less than the average length of Team B. Therefore, statements [A], [B], and [D] are not necessarily true.
+
+The correct answer is [C].
+-------------------------------------------
+\section{M052429}
+[B] $\frac{4}{10}$
+-------------------------------------------
+\section{M052503A}
+ The age structure of Country X is skewed towards younger age groups, with a larger percentage of the population in the 0-19 age group. This means that there will be a larger number of people reaching childbearing age in the future, which could lead to more rapid population growth. In contrast, the age structure of Country Y is skewed towards older age groups, with a smaller percentage of the population in the 0-19 age group. This means that there will be a smaller number of people reaching childbearing age in the future, which could lead to slower population growth.
+-------------------------------------------
+\section{M052503A}
+ Country Y will have a bigger problem taking care of its elderly population than Country X because it has a smaller percentage of its population in the 20-44 age range. This means that there will be fewer people of working age to support the increasing number of retirees.
+
+The graphs show that Country X has a larger percentage of its population in the 20-44 age range than Country Y. This means that Country X has a larger workforce that can support the elderly population.
+
+In addition, Country X has a larger percentage of its population in the 0-19 age range than Country Y. This means that Country X will have a larger workforce in the future to support the elderly population.
+-------------------------------------------
